@@ -6,7 +6,7 @@
 
 **Baza NISR is one AI agent over all of NISR's scattered data.** Ask in English or Kinyarwanda. It finds the right NISR tables, runs the query, and checks every number against the data before you see it, with the exact NISR table cited.
 
-**Live demo:** LIVE_URL_PLACEHOLDER · Try: *"Which districts have poverty above 40% and the lowest internet access at home?"*
+**Live demo:** https://baza-nsir.apps.thalesops.com/ · Try: *"Which districts have poverty above 40% and the lowest internet access at home?"*
 
 ![Baza NISR home: serif headline, question box, and the animated wordmark with blue light trails and tracking boxes](docs/screenshots/hero.png)
 
@@ -134,17 +134,17 @@ The 12 questions from the project brief are run by `make eval` (`scripts/run_eva
 
 | # | Question | Result | Verifier | Latency (s) | Tables cited |
 |---|---|---|---|---|---|
-| 1 | Which district has the highest poverty rate? | PASS | verified | 8.4 | eicv7_a9_23_poverty_rate |
-| 2 | What is the poverty rate in the City of Kigali? | PASS | verified | 4.8 | eicv7_a9_23_poverty_rate |
+| 1 | Which district has the highest poverty rate? | PASS | verified | 7.9 | eicv7_a9_23_poverty_rate |
+| 2 | What is the poverty rate in the City of Kigali? | PASS | verified | 4.6 | eicv7_a9_23_poverty_rate |
 | 3 | Which 5 districts have the lowest poverty rates? | PASS | verified | 4.8 | eicv7_a9_23_poverty_rate |
-| 4 | What was Rwanda's population in the 2022 census? | PASS | verified | 4.0 | census_t1_population |
-| 5 | What is the population density of Kicukiro? | PASS | verified | 4.4 | census_t1_population |
-| 6 | Compare poverty and electricity access across Western Province districts. | PASS | verified | 6.5 | eicv7_a9_23_poverty_rate, eicv7_a5_14_electricity_lighting |
-| 7 | Which districts have poverty above 40% and the lowest internet access at home? | PASS | verified | 5.9 | eicv7_a9_23_poverty_rate, eicv7_a5_15_internet_at_home |
-| 8 | How does health insurance coverage in Nyanza compare to the national average? | PASS | verified | 8.7 | census_t28_health_insurance, eicv7_a3_7_health_insurance |
-| 9 | What share of households in Rwanda use electricity for lighting? | PASS | verified | 6.1 | census_t75_lighting_source, eicv7_a5_14_electricity_lighting |
-| 10 | What is the unemployment rate in Rwanda? | PASS | verified | 4.6 | lfs_2026q2_indicators_rwanda |
-| 11 | What is the HIV prevalence in Musanze? | PASS | verified | 21.4 | none (refusal) |
+| 4 | What was Rwanda's population in the 2022 census? | PASS | verified | 4.3 | census_t1_population |
+| 5 | What is the population density of Kicukiro? | PASS | verified | 4.0 | census_t1_population |
+| 6 | Compare poverty and electricity access across Western Province districts. | PASS | verified | 8.9 | eicv7_a9_23_poverty_rate, eicv7_a5_14_electricity_lighting, census_t74_electricity_access |
+| 7 | Which districts have poverty above 40% and the lowest internet access at home? | PASS | verified | 6.5 | eicv7_a9_23_poverty_rate, eicv7_a5_15_internet_at_home |
+| 8 | How does health insurance coverage in Nyanza compare to the national average? | PASS | verified | 7.7 | census_t28_health_insurance, eicv7_a3_7_health_insurance |
+| 9 | What share of households in Rwanda use electricity for lighting? | PASS | verified | 5.6 | census_t75_lighting_source, eicv7_a5_14_electricity_lighting |
+| 10 | What is the unemployment rate in Rwanda? | PASS | verified | 4.4 | lfs_2026q2_indicators_rwanda |
+| 11 | What is the HIV prevalence in Musanze? | PASS | verified | 6.3 | none (refusal) |
 | 12 | Who will win the next election? | PASS | verified | 2.9 | none (refusal) |
 
 <!-- EVAL:END -->
@@ -203,6 +203,7 @@ The repo includes `data/baza.duckdb`, `Procfile` (`web: bash scripts/start.sh`) 
 
 - Load more NISR tables: EICV7 Poverty Profile, all 61 Census district tables, Agricultural Household Survey, DHS indicators.
 - Side-by-side district comparison and sector-level data when NISR publishes it.
+- Voice in Kinyarwanda: ask by speaking and hear the answer read back, for people who cannot easily read or type, using Rwandan open speech models such as Digital Umuganda's. The same numeric checks would apply to spoken answers.
 - Translate the whole interface (not only answers) into Kinyarwanda, and add SMS/USSD access for people without smartphones, as district workshops requested.
 - Expose Baza's verified-number tools as an MCP server, next to NISR's catalogue MCP, so any AI assistant can answer Rwanda questions with checked numbers.
 - Pull new releases automatically through NISR's DevInfo/SDMX API.
@@ -225,7 +226,7 @@ How AI was used:
 
 ## 13. Team
 
-- **Abdulmujeeb Tiamiyu** (team leader): agent, backend, deployment. MS Engineering AI, Carnegie Mellon University Africa.
+- **Abdulmujeeb Tiamiyu**: agent, backend, deployment. MS Engineering AI, Carnegie Mellon University Africa.
 - **Carlos Ngoga**: data cleaning, validation, Rwandan context, documentation. Carnegie Mellon University Africa.
 
 ## 14. Licence and attribution

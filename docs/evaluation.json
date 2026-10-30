@@ -9,11 +9,11 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 8.4,
+      "latency_s": 7.9,
       "tables": [
         "eicv7_a9_23_poverty_rate"
       ],
-      "answer": "Nyamagabe District had the highest headcount poverty rate at 51.4% in EICV7 2023/24. Its confidence interval was 45.1% to 57.7%."
+      "answer": "Nyamagabe District had the highest headcount poverty rate, at 51.4%, in the EICV7 Main Indicators 2023/24 survey. Its 95% confidence interval was 45.1% to 57.7%."
     },
     {
       "id": 2,
@@ -22,11 +22,11 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 4.8,
+      "latency_s": 4.6,
       "tables": [
         "eicv7_a9_23_poverty_rate"
       ],
-      "answer": "The headcount poverty rate in the City of Kigali was 9.1% in EICV7 2023/24. Its 95% confidence interval was 7.0% to 11.1%, with a standard error of 1.1 percentage points."
+      "answer": "In the City of Kigali, the headcount poverty rate was 9.1% in EICV7 2023/24. The survey\u2019s 95% confidence interval was 7.0% to 11.1% (standard error: 1.1 percentage points)."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
       "tables": [
         "eicv7_a9_23_poverty_rate"
       ],
-      "answer": "In EICV7 2023/24, the five districts with the lowest headcount poverty rates were Nyarugenge at 6.8%, Kicukiro at 6.9%, Gasabo at 11.1%, Gicumbi at 13.3%, and Kirehe at 14.2%. These are survey estimates: their confidence intervals were 4.4% to 9.2%, 4.3% to 9.5%, 7.4% to 14.7%, 9.2% to 17.4%, and 10.1% to 18.4%, respectively."
+      "answer": "In EICV7 2023/24, the five districts with the lowest headcount poverty rates were Nyarugenge, 6.8%; Kicukiro, 6.9%; Gasabo, 11.1%; Gicumbi, 13.3%; and Kirehe, 14.2%. These are survey estimates: the 95% confidence intervals range from 4.4% to 9.2% for Nyarugenge and from 10.1% to 18.4% for Kirehe."
     },
     {
       "id": 4,
@@ -48,7 +48,7 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 4.0,
+      "latency_s": 4.3,
       "tables": [
         "census_t1_population"
       ],
@@ -61,11 +61,11 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 4.4,
+      "latency_s": 4.0,
       "tables": [
         "census_t1_population"
       ],
-      "answer": "Kicukiro had a population density of 2,944 people per km\u00b2 in the Census 2022 (RPHC5)."
+      "answer": "Kicukiro District had a population density of 2,944 people per km\u00b2 in the Census 2022 (RPHC5)."
     },
     {
       "id": 6,
@@ -74,12 +74,13 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 6.5,
+      "latency_s": 8.9,
       "tables": [
         "eicv7_a9_23_poverty_rate",
-        "eicv7_a5_14_electricity_lighting"
+        "eicv7_a5_14_electricity_lighting",
+        "census_t74_electricity_access"
       ],
-      "answer": "EICV7 Main Indicators 2023/24 shows poverty was highest in Rusizi at 44.2% and lowest in Nyabihu at 20.4% among Western Province districts. Electricity as the main lighting source ranged from 60.6% in Nyabihu to 78.8% in Rusizi. The other districts were Nyamasheke, 42.7% poverty and 74.3% electricity; Rutsiro, 40.8% and 71.1%; Rubavu, 38.8% and 74.5%; Karongi, 38.2% and 67.8%; and Ngororero, 30.2% and 68.0%."
+      "answer": "EICV7 2023/24 shows the highest poverty rates in Western Province in Rusizi (44.2%), Nyamasheke (42.7%), Rutsiro (40.8%), Rubavu (38.8%) and Karongi (38.2%); Ngororero was 30.2% and Nyabihu 20.4%. Electricity as the main lighting source in the same survey was highest in Rusizi (78.8%), Rubavu (74.5%), Nyamasheke (74.3%), Rutsiro (71.1%), Ngororero (68.0%), Karongi (67.8%) and Nyabihu (60.6%). For comparison, Census 2022 electricity access was 67.3% in Rusizi, 61.5% in Nyamasheke, 50.2% in Rutsiro, 71.4% in Rubavu, 50.3% in Karongi, 40.5% in Ngororero and 47.0% in Nyabihu."
     },
     {
       "id": 7,
@@ -88,12 +89,12 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 5.9,
+      "latency_s": 6.5,
       "tables": [
         "eicv7_a9_23_poverty_rate",
         "eicv7_a5_15_internet_at_home"
       ],
-      "answer": "In EICV7 2023/24, Nyamagabe had the lowest household internet access at home among districts with poverty above 40%: 9.2%, while its poverty rate was 51.4%. The other qualifying districts, ordered by internet access at home, were Nyanza (15.0%; poverty 43.3%), Rutsiro (16.2%; 40.8%), Nyamasheke (25.6%; 42.7%), Gisagara (28.5%; 45.6%), and Rusizi (44.1%; 44.2%)."
+      "answer": "In EICV7 2023/24, the districts with poverty above 40% are Nyamagabe (51.4%), Nyanza (43.3%), Rutsiro (40.8%), Nyamasheke (42.7%), Gisagara (45.6%) and Rusizi (44.2%). Among them, Nyamagabe has the lowest household internet access at home, at 9.2%, followed by Nyanza at 15.0% and Rutsiro at 16.2%; Nyamagabe\u2019s internet estimate has a 95% confidence interval of 6.2% to 12.3%."
     },
     {
       "id": 8,
@@ -102,12 +103,12 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 8.7,
+      "latency_s": 7.7,
       "tables": [
         "census_t28_health_insurance",
         "eicv7_a3_7_health_insurance"
       ],
-      "answer": "In Census 2022, health-insurance coverage was 93.4% in Nyanza, compared with 97.3% nationally, a difference of 3.9 percentage points. In EICV7 2023/24, Nyanza was 82.3% versus 85.3% nationally, a 3.0-point difference; the Nyanza estimate has a 78.5% to 86.1% confidence interval."
+      "answer": "In Census 2022, medical insurance coverage in Nyanza was 93.4%, compared with 97.3% nationally, a difference of 3.9 percentage points. In EICV7 2023/24, Nyanza was 82.3% compared with 85.3% nationally, a 3.0-point difference; the Nyanza survey estimate has a 78.5% to 86.1% confidence interval."
     },
     {
       "id": 9,
@@ -116,12 +117,12 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 6.1,
+      "latency_s": 5.6,
       "tables": [
         "census_t75_lighting_source",
         "eicv7_a5_14_electricity_lighting"
       ],
-      "answer": "Census 2022 reports that 47.0% of private households in Rwanda used electricity from the grid as their main lighting source. EICV7 2023/24 reports 72.0% of households used electricity as their main lighting source, with a confidence interval of 71.1% to 73.0%. The figures differ because they come from different surveys and years."
+      "answer": "In Census 2022, 47.0% of private households in Rwanda used electricity from the grid as their main lighting source. In EICV7 2023/24, 72.0% of households used electricity as their main lighting source, with a 95% confidence interval of 71.1% to 73.0%."
     },
     {
       "id": 10,
@@ -130,7 +131,7 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 4.6,
+      "latency_s": 4.4,
       "tables": [
         "lfs_2026q2_indicators_rwanda"
       ],
@@ -143,9 +144,9 @@
       "result": "PASS",
       "reasons": [],
       "verifier": "verified",
-      "latency_s": 21.4,
+      "latency_s": 6.3,
       "tables": [],
-      "answer": "The available NISR tables do not provide HIV prevalence for Musanze. HIV outcomes are covered by the Rwanda Demographic and Health Survey (DHS), available through the NISR microdata catalogue at http://microdata.statistics.gov.rw/."
+      "answer": "The available NISR tables do not provide HIV prevalence for Musanze. HIV is covered by the Rwanda Demographic and Health Survey (DHS) 2019-2020 in the NISR microdata catalogue: http://microdata.statistics.gov.rw/."
     },
     {
       "id": 12,
@@ -156,7 +157,7 @@
       "verifier": "verified",
       "latency_s": 2.9,
       "tables": [],
-      "answer": "I cannot predict who will win the next election. Election outcomes and political opinions are outside the scope of NISR statistical tables."
+      "answer": "I cannot predict election winners. NISR tables provide official statistics, not voting intentions or election forecasts."
     }
   ]
 }
