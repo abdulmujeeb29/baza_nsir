@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Baza NISR</title>
+  <meta name="description" content="An AI agent for Rwanda's official statistics. Ask in English or Kinyarwanda; every number is checked against NISR data and cited.">
+  <meta name="theme-color" content="#0a0a0a">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2305070d'/%3E%3Ccircle cx='16' cy='16' r='8' fill='%234f7cff'/%3E%3Ccircle cx='16' cy='16' r='3.5' fill='%23cfe0ff'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/motion.js" defer></script>
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <filter id="liquid" x="-30%" y="-60%" width="160%" height="220%">
+        <feTurbulence type="fractalNoise" baseFrequency="0.012 0.03" numOctaves="2" seed="7" result="noise">
+          <animate attributeName="baseFrequency" dur="14s" values="0.012 0.03;0.02 0.045;0.012 0.03" repeatCount="indefinite"/>
+        </feTurbulence>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="6" xChannelSelector="R" yChannelSelector="G" result="warped"/>
+        <feGaussianBlur in="warped" stdDeviation="3" result="glow"/>
+        <feMerge><feMergeNode in="glow"/><feMergeNode in="warped"/></feMerge>
+      </filter>
+      <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#eef3ff"/>
+        <stop offset="0.45" stop-color="#7fa3ff"/>
+        <stop offset="1" stop-color="#3460ff"/>
+      </linearGradient>
+    </defs>
+  </svg>
+
+  <header class="site-header">
+    <div class="wrap header-row">
+      <a class="brand" href="#ask" aria-label="Baza NISR home">
+        <svg class="brand-icon" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" fill="#2f5bff"/><circle cx="16" cy="16" r="8.5" fill="none" stroke="#e8efff" stroke-width="2"/><circle cx="16" cy="16" r="3" fill="#e8efff"/></svg>
+        <span class="brand-name">Baza</span><span class="brand-tag">NISR</span>
+      </a>
+      <nav aria-label="Main">
+        <a href="#ask" data-view="ask">Ask</a>
+        <a href="#brief" data-view="brief">District brief</a>
+        <a href="#gaps" data-view="gaps">Data gaps</a>
+        <a href="#catalog" data-view="catalog">Catalogue</a>
+        <a href="#about" data-view="about">About</a>
+      </nav>
+      <div id="lang" class="seg" role="radiogroup" aria-label="Answer language">
+        <button type="button" role="radio" data-lang="en" aria-checked="true">EN</button>
+        <button type="button" role="radio" data-lang="rw" aria-checked="false">RW</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    <section id="view-ask" class="view" aria-labelledby="ask-title">
+      <div class="hero">
+        <div class="hero-copy">
+          <h1 id="ask-title">Ask Rwanda's data.<br>Get the <em>proof.</em></h1>
+          <p class="eyebrow">AI agent for official NISR statistics</p>
+          <p class="lead">Ask in English or Kinyarwanda. Baza finds the right NISR table, runs the query, and checks every number before you see it.</p>
+          <form id="ask-form" class="ask-box" autocomplete="off">
+            <label for="question" class="sr-only">Your question</label>
+            <textarea id="question" name="question" rows="2" maxlength="500" required></textarea>
+            <div class="ask-tools">
+              <div id="mode" class="seg" role="radiogroup" aria-label="Answer mode">
+                <button type="button" role="radio" data-mode="ask" aria-checked="true">Quick answer</button>
+                <button type="button" role="radio" data-mode="investigate" aria-checked="false">Investigate</button>
+              </div>
+              <button id="ask-button" class="primary" type="submit">Ask <span aria-hidden="true">→</span></button>
+            </div>
+          </form>
+        </div>
+        <div class="motion-stage" aria-hidden="true">
+          <canvas id="hero-motion" class="hero-motion"></canvas>
+          <span class="stage-tag tr" id="stage-status">Idle · 35 tables</span>
+        </div>
+      </div>
+      <div id="examples" class="examples" aria-label="Example questions"></div>
+
+      <div id="error" class="error mono" role="alert" hidden></div>
+
+      <div id="workspace" class="workspace" hidden>
+        <aside class="trace panel" aria-label="Agent trace">
+          <div class="panel-head mono"><span>AGENT TRACE</span><span id="trace-clock">00.0s</span></div>
+          <ol id="plan" class="plan" hidden></ol>
+          <ol id="trace" class="trace-list" aria-live="polite"></ol>
+        </aside>
+
+        <article id="answer" class="panel answer" hidden aria-live="polite">
+                    <div class="answer-head">
+            <span id="badge" class="badge mono"></span>
+            <span id="meta" class="meta mono"></span>
+          </div>
+          <div id="answer-text" class="answer-text"></div>
+          <ul id="caveats" class="caveats"></ul>
+          <div id="pointers" class="pointers" hidden>
+            <h2 class="label mono">WHERE NISR HAS THIS</h2>
+            <ul id="pointer-list"></ul>
+          </div>
+          <div id="viz-tabs" class="seg mono" role="tablist" aria-label="Chart or map" hidden>
+            <button type="button" role="tab" data-viz="chart" aria-selected="true">Chart</button>
+            <button type="button" role="tab" data-viz="map" aria-selected="false">Map</button>
+          </div>
+          <div id="chart" class="chart"></div>
+          <p id="map-note" class="note mono" hidden>BOUNDARIES: OPEN DATA RWANDA (NISR) VIA GEOBOUNDARIES, CC BY 4.0 · GREY = NOT IN RESULT</p>
+          <div class="table-tools" id="table-tools">
+            <h2 class="label mono">DATA</h2>
+            <button id="download" type="button" class="ghost mono">Download CSV</button>
+          </div>
+          <div id="data-table" class="table-scroll"></div>
+          <section class="sources" aria-labelledby="sources-title">
+            <h2 id="sources-title" class="label mono">SOURCES</h2>
+            <ul id="sources"></ul>
+          </section>
+          <details class="how">
+            <summary class="mono">HOW I GOT THIS</summary>
+            <div id="sql"></div>
+          </details>
+        </article>
+      </div>
+
+      <section class="story" aria-labelledby="problem-title">
+        <p class="eyebrow">The problem</p>
+        <h2 id="problem-title" class="display">The numbers exist.<br>Finding them is the <em>hard part.</em></h2>
+        <div class="three">
+          <div><span class="num-label">01</span><h3>Scattered</h3><p>NISR data sits in 7+ portals and hundreds of Excel and PDF tables. NISR's own strategy lists the lack of an integrated repository as a weakness.</p></div>
+          <div><span class="num-label">02</span><h3>Mostly in English</h3><p>District workshops reported that only some publications are in Kinyarwanda, and that officials struggle to navigate NISR's channels.</p></div>
+          <div><span class="num-label">03</span><h3>Chatbots guess</h3><p>General AI tools give confident but wrong figures. Official statistics need an answer that shows its source and its work.</p></div>
+        </div>
+      </section>
+
+      <section class="story split" aria-labelledby="how-title">
+        <div>
+          <p class="eyebrow">How it works</p>
+          <h2 id="how-title" class="display">Ask a question.<br>Get the <em>evidence.</em></h2>
+          <ol class="steps">
+            <li><h3>It plans</h3><p>The agent picks the right tables from 35 cleaned NISR tables and plans its queries.</p></li>
+            <li><h3>It queries</h3><p>Read-only SQL runs in parallel across the Census, EICV7 and the Labour Force Survey, joined by district.</p></li>
+            <li><h3>It proves</h3><p>Every number in the answer is checked against the results and tagged with its NISR table. If the data cannot answer, it says so and points to the right NISR survey.</p></li>
+          </ol>
+        </div>
+        <div class="card sample">
+          <p class="eyebrow">Sample answer <span class="pill">Verified</span></p>
+          <p class="sample-text">Nyamagabe has the highest poverty rate, <span class="num" data-ref="A9.23 ✓">51.4%</span>, against <span class="num" data-ref="A9.23 ✓">27.4%</span> nationally (EICV7 2023/24).</p>
+          <p class="sample-src">Source: EICV7 2023/24, Table A9.23, NISR</p>
+        </div>
+      </section>
+    </section>
+
+    <section id="view-brief" class="view" hidden aria-labelledby="brief-title">
+      <div class="page-head">
+        <p class="eyebrow">AGENT · INVESTIGATION</p>
+        <h1 id="brief-title">District brief</h1>
+        <p class="lead">Pick a district. The agent plans what to check, compares the district with its province and Rwanda across the Census and EICV7, and writes a one-page brief for Imihigo planning, community meetings or radio. Every number is checked.</p>
+      </div>
+      <div id="district-picker" class="district-picker" aria-label="Choose a district"></div>
+      <div id="brief-error" class="error mono" role="alert" hidden></div>
+      <div id="brief-workspace" class="workspace" hidden>
+        <aside class="trace panel" aria-label="Agent trace">
+          <div class="panel-head mono"><span>AGENT TRACE</span><span id="brief-clock">00.0s</span></div>
+          <ol id="brief-plan" class="plan" hidden></ol>
+          <ol id="brief-trace" class="trace-list" aria-live="polite"></ol>
+        </aside>
+        <article id="brief-doc" class="panel brief-doc" hidden>
+                    <div class="doc-head">
+            <div>
+              <p class="label mono">DISTRICT BRIEF · BAZA NISR</p>
+              <h2 id="brief-name"></h2>
+              <p class="meta mono" id="brief-meta"></p>
+            </div>
+            <div class="doc-actions">
+              <span id="brief-badge" class="badge mono"></span>
+              <button id="print-brief" type="button" class="ghost mono">Print / PDF</button>
+            </div>
+          </div>
+          <div id="brief-text" class="answer-text"></div>
+          <section class="sources">
+            <h2 class="label mono">SOURCES</h2>
+            <ul id="brief-sources"></ul>
+          </section>
+          <details class="how">
+            <summary class="mono">HOW I GOT THIS</summary>
+            <div id="brief-sql"></div>
+          </details>
+          <p class="note mono">DATA: NATIONAL INSTITUTE OF STATISTICS OF RWANDA, CC BY 4.0 · EVERY NUMBER CHECKED AGAINST THE QUERY RESULTS</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="view-gaps" class="view" hidden aria-labelledby="gaps-title">
+      <div class="page-head">
+        <p class="eyebrow">FEEDBACK LOOP FOR NISR</p>
+        <h1 id="gaps-title">Data-gap radar</h1>
+        <p class="lead">Every question the published tables could not answer becomes a signal for NISR: what people need, and which NISR survey the agent pointed them to. No names or IP addresses are stored.</p>
+      </div>
+      <div id="gap-stats" class="stats"></div>
+      <div class="gap-grid">
+        <section class="panel">
+          <h2 class="label mono">UNANSWERED QUESTIONS · MOST RECENT</h2>
+          <ul id="gap-list" class="gap-list"></ul>
+        </section>
+        <section class="panel">
+          <h2 class="label mono">NISR SOURCES PEOPLE WERE SENT TO</h2>
+          <ul id="gap-pointers" class="bar-list"></ul>
+          <h2 class="label mono spaced">MOST USED TABLES</h2>
+          <ul id="gap-tables" class="bar-list"></ul>
+        </section>
+      </div>
+    </section>
+
+    <section id="view-catalog" class="view" hidden aria-labelledby="catalog-title">
+      <div class="page-head">
+        <p class="eyebrow">ONE DATABASE · 4 NISR PUBLICATIONS</p>
+        <h1 id="catalog-title">Data catalogue</h1>
+        <p class="lead">Every table the agent can query, cleaned from NISR's Excel files and joined on a common district key. CC BY 4.0, National Institute of Statistics of Rwanda.</p>
+      </div>
+      <label for="catalog-filter" class="sr-only">Filter tables</label>
+      <input id="catalog-filter" class="filter mono" type="search" placeholder="filter: water, district, EICV7">
+      <div id="catalog-list" class="catalog-list"></div>
+    </section>
+
+    <section id="view-about" class="view prose" hidden aria-labelledby="about-title">
+      <div class="page-head">
+        <p class="eyebrow">ABOUT</p>
+        <h1 id="about-title">Why Baza NISR</h1>
+      </div>
+      <p><strong>Baza</strong> means "ask" in Kinyarwanda. NISR publishes rich district statistics, but they are spread across separate portals and hundreds of Excel and PDF tables, mostly in English. NISR's own strategy (NSDS4, 2024 to 2029) lists the absence of an integrated data repository and too little use of Kinyarwanda as weaknesses, and calls for AI-assisted dissemination. Baza NISR is a working version of that layer.</p>
+      <h2>How the agent works</h2>
+      <ol>
+        <li>It pre-selects likely tables from a catalogue of 35 cleaned NISR tables, then plans its steps.</li>
+        <li>It writes read-only SQL, runs independent queries in parallel, and joins surveys on the district key.</li>
+        <li>When the tables cannot answer, it searches NISR's own microdata catalogue and points to the right survey.</li>
+        <li>A verifier checks every number in the answer against the query results. Unmatched numbers are sent back once for correction, then shown as a warning.</li>
+        <li>Answers can be switched to Kinyarwanda at any time. A translation is shown only if it keeps exactly the same numbers.</li>
+        <li>Unanswered questions feed the data-gap radar for NISR.</li>
+      </ol>
+      <h2>Data</h2>
+      <ul>
+        <li>5th Population and Housing Census (RPHC5), 2022, main indicator tables.</li>
+        <li>EICV7 2023/24 main indicators and the Utilities and Amenities thematic tables.</li>
+        <li>Labour Force Survey quarterly tables up to Q2 2026.</li>
+        <li>District boundaries: Open Data Rwanda (NISR) via geoBoundaries, CC BY 4.0.</li>
+      </ul>
+      <p>Source: National Institute of Statistics of Rwanda, <a href="https://statistics.gov.rw/data-sources" rel="noopener" target="_blank">statistics.gov.rw</a>, CC BY 4.0.</p>
+      <h2>Limitations</h2>
+      <ul>
+        <li>Census 2022 and EICV7 2023/24 differ in year and method, so comparisons across them are indicative.</li>
+        <li>EICV7 district estimates come from a sample and have confidence intervals.</li>
+        <li>Only loaded tables can be answered with numbers. Kinyarwanda answers are machine translated.</li>
+      </ul>
+      <h2>Embed on any NISR page</h2>
+      <p>One line adds an "Ask NISR" button that opens the agent in a panel:</p>
+      <pre><code id="embed-code">&lt;script src="/embed.js" defer&gt;&lt;/script&gt;</code></pre>
+      <h2>AI use disclosure</h2>
+      <p>The problem framing, research, system design and product decisions are the team's: an agent over one cleaned database of NISR tables, verified numbers, NISR catalogue fallback, district briefs, Kinyarwanda with protected numbers and the data-gap radar. AI coding agents (including Claude Code) wrote much of the implementation from our design and instructions, under a plan with tests for every task, and the team reviewed the results. At runtime, a language model plans, writes SQL and phrases the answer, but never supplies the numbers: the verifier checks every one against NISR data.</p>
+      <h2>Team</h2>
+      <p>Abdulmujeeb Tiamiyu (team leader) and Carlos Ngoga, Carnegie Mellon University Africa. NISR 2026 Big Data Hackathon, Track 3: Open Innovation.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap mono">DATA: NATIONAL INSTITUTE OF STATISTICS OF RWANDA (NISR), CC BY 4.0 · BAZA NISR IS A STUDENT PROJECT, NOT AN OFFICIAL NISR PRODUCT</div>
+  </footer>
+</body>
+</html>

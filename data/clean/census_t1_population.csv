@@ -1,0 +1,37 @@
+label,breakdown,geo_level,province,district,area,counts_both_sexes,counts_male,counts_female,population_share_pct,population_density
+Rwanda,,national,,,total,13246394.0,6429326.0,6817068.0,100.0,503.0
+City of Kigali,,province,City of Kigali,,total,1745555.0,888882.0,856673.0,13.2,2401.0
+Nyarugenge,,district,City of Kigali,Nyarugenge,total,374319.0,195780.0,178539.0,2.8,2830.0
+Gasabo,,district,City of Kigali,Gasabo,total,879505.0,443987.0,435518.0,6.6,2056.0
+Kicukiro,,district,City of Kigali,Kicukiro,total,491731.0,249115.0,242616.0,3.7,2944.0
+Southern Province,,province,Southern,,total,3002699.0,1448455.0,1554244.0,22.7,547.0
+Nyanza,,district,Southern,Nyanza,total,365718.0,178645.0,187073.0,2.8,545.0
+Gisagara,,district,Southern,Gisagara,total,397051.0,188965.0,208086.0,3.0,584.0
+Nyaruguru,,district,Southern,Nyaruguru,total,318126.0,151980.0,166146.0,2.4,409.0
+Huye,,district,Southern,Huye,total,381900.0,188859.0,193041.0,2.9,657.0
+Nyamagabe,,district,Southern,Nyamagabe,total,371501.0,176725.0,194776.0,2.8,441.0
+Ruhango,,district,Southern,Ruhango,total,359121.0,172096.0,187025.0,2.7,573.0
+Muhanga,,district,Southern,Muhanga,total,358433.0,173615.0,184818.0,2.7,555.0
+Kamonyi,,district,Southern,Kamonyi,total,450849.0,217570.0,233279.0,3.4,683.0
+Western Province,,province,Western,,total,2896484.0,1384635.0,1511849.0,21.9,693.0
+Karongi,,district,Western,Karongi,total,373869.0,178417.0,195452.0,2.8,482.0
+Rutsiro,,district,Western,Rutsiro,total,369180.0,176498.0,192682.0,2.8,565.0
+Rubavu,,district,Western,Rubavu,total,546683.0,267299.0,279384.0,4.1,1614.0
+Nyabihu,,district,Western,Nyabihu,total,319047.0,150072.0,168975.0,2.4,642.0
+Ngororero,,district,Western,Ngororero,total,367955.0,171065.0,196890.0,2.8,551.0
+Rusizi,,district,Western,Rusizi,total,485529.0,236426.0,249103.0,3.7,871.0
+Nyamasheke,,district,Western,Nyamasheke,total,434221.0,204858.0,229363.0,3.3,632.0
+Northern Province,,province,Northern,,total,2038511.0,972960.0,1065551.0,15.4,663.0
+Rulindo,,district,Northern,Rulindo,total,360144.0,171849.0,188295.0,2.7,635.0
+Gakenke,,district,Northern,Gakenke,total,365292.0,172600.0,192692.0,2.8,520.0
+Musanze,,district,Northern,Musanze,total,476522.0,227340.0,249182.0,3.6,1157.0
+Burera,,district,Northern,Burera,total,387729.0,184782.0,202947.0,2.9,682.0
+Gicumbi,,district,Northern,Gicumbi,total,448824.0,216389.0,232435.0,3.4,544.0
+Eastern Province,,province,Eastern,,total,3563145.0,1734394.0,1828751.0,26.9,433.0
+Rwamagana,,district,Eastern,Rwamagana,total,484953.0,243794.0,241159.0,3.7,740.0
+Nyagatare,,district,Eastern,Nyagatare,total,653861.0,318740.0,335121.0,4.9,373.0
+Gatsibo,,district,Eastern,Gatsibo,total,551164.0,264461.0,286703.0,4.2,435.0
+Kayonza,,district,Eastern,Kayonza,total,457156.0,221448.0,235708.0,3.5,338.0
+Kirehe,,district,Eastern,Kirehe,total,460860.0,221763.0,239097.0,3.5,398.0
+Ngoma,,district,Eastern,Ngoma,total,404048.0,192720.0,211328.0,3.1,498.0
+Bugesera,,district,Eastern,Bugesera,total,551103.0,271468.0,279635.0,4.2,450.0

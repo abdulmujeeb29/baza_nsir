@@ -1,0 +1,37 @@
+label,breakdown,geo_level,province,district,area,sex_of_the_household_head_all,sex_of_the_household_head_male_head,sex_of_the_household_head_female_head,area_of_residence_rwanda,area_of_residence_urban,area_of_residence_rural
+Rwanda,,national,,,total,78.1,82.4,67.4,78.1,89.9,73.2
+City of Kigali,,province,City of Kigali,,total,92.4,93.4,89.2,92.4,93.9,80.9
+Nyarugenge,,district,City of Kigali,Nyarugenge,total,92.8,93.4,90.8,92.8,93.9,84.1
+Gasabo,,district,City of Kigali,Gasabo,total,91.3,92.6,87.0,91.3,93.6,80.0
+Kicukiro,,district,City of Kigali,Kicukiro,total,94.3,95.0,91.9,94.3,94.4,79.6
+Southern Province,,province,Southern,,total,71.9,76.4,62.2,71.9,86.6,69.4
+Nyanza,,district,Southern,Nyanza,total,69.3,73.7,60.8,69.3,84.4,67.7
+Gisagara,,district,Southern,Gisagara,total,66.5,70.4,59.3,66.5,70.5,66.4
+Nyaruguru,,district,Southern,Nyaruguru,total,67.6,73.2,54.9,67.6,79.9,67.3
+Huye,,district,Southern,Huye,total,70.1,74.5,61.9,70.1,86.2,66.6
+Nyamagabe,,district,Southern,Nyamagabe,total,70.5,75.4,59.4,70.5,86.1,68.9
+Ruhango,,district,Southern,Ruhango,total,71.2,75.9,61.6,71.2,84.6,69.5
+Muhanga,,district,Southern,Muhanga,total,77.9,82.1,67.7,77.9,91.9,73.8
+Kamonyi,,district,Southern,Kamonyi,total,79.6,83.3,70.1,79.6,87.0,76.2
+Western Province,,province,Western,,total,77.1,82.7,64.0,77.1,86.1,74.6
+Karongi,,district,Western,Karongi,total,74.1,79.4,62.7,74.1,86.8,72.7
+Rutsiro,,district,Western,Rutsiro,total,73.0,79.3,57.4,73.0,79.4,72.6
+Rubavu,,district,Western,Rubavu,total,79.3,84.4,66.5,79.3,87.3,69.2
+Nyabihu,,district,Western,Nyabihu,total,76.1,82.1,62.6,76.1,84.2,73.5
+Ngororero,,district,Western,Ngororero,total,72.4,79.1,58.0,72.4,87.1,71.6
+Rusizi,,district,Western,Rusizi,total,81.0,85.4,69.5,81.0,85.0,79.0
+Nyamasheke,,district,Western,Nyamasheke,total,82.1,87.2,69.7,82.1,88.6,81.6
+Northern Province,,province,Northern,,total,77.6,83.1,62.9,77.6,87.4,75.6
+Rulindo,,district,Northern,Rulindo,total,77.8,82.8,64.6,77.8,88.1,76.5
+Gakenke,,district,Northern,Gakenke,total,76.2,82.3,60.1,76.2,88.3,75.7
+Musanze,,district,Northern,Musanze,total,81.6,86.4,69.1,81.6,87.9,75.5
+Burera,,district,Northern,Burera,total,77.6,84.0,58.8,77.6,83.5,77.0
+Gicumbi,,district,Northern,Gicumbi,total,74.5,79.6,60.3,74.5,86.5,73.7
+Eastern Province,,province,Eastern,,total,76.5,80.3,67.3,76.5,86.6,73.8
+Rwamagana,,district,Eastern,Rwamagana,total,81.1,84.4,73.6,81.1,89.4,76.8
+Nyagatare,,district,Eastern,Nyagatare,total,78.9,82.5,69.5,78.9,85.2,76.8
+Gatsibo,,district,Eastern,Gatsibo,total,71.4,75.4,61.6,71.4,84.1,69.9
+Kayonza,,district,Eastern,Kayonza,total,76.2,79.8,67.6,76.2,87.0,74.2
+Kirehe,,district,Eastern,Kirehe,total,76.9,81.3,67.2,76.9,86.1,76.3
+Ngoma,,district,Eastern,Ngoma,total,71.4,75.9,61.5,71.4,84.6,70.1
+Bugesera,,district,Eastern,Bugesera,total,78.3,82.1,69.0,78.3,86.5,72.8

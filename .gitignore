@@ -1,0 +1,26 @@
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Build leftovers
+*.part
+data/baza.duckdb.tmp
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+
+# Anonymous question log (runtime data)
+data/logs/
+
+# Working notes and docs: keep local, only README.md is published
+*.md
+!README.md

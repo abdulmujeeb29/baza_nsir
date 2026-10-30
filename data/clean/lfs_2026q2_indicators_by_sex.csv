@@ -1,0 +1,1011 @@
+geo_level,province,district,area,indicator,group,year,quarter,period,value
+national,,,total,Working age population(16+ years),Male,2019,Q1,2019Q1,3335618.4516528025
+national,,,total,Working age population(16+ years),Male,2019,Q2,2019Q2,3352105.707816523
+national,,,total,Working age population(16+ years),Male,2019,Q3,2019Q3,3379597.1048056516
+national,,,total,Working age population(16+ years),Male,2019,Q4,2019Q4,3438058.9689799775
+national,,,total,Working age population(16+ years),Male,2020,Q1,2020Q1,3467977.5047982633
+national,,,total,Working age population(16+ years),Male,2020,Q2,2020Q2,3497621.7369766235
+national,,,total,Working age population(16+ years),Male,2020,Q3,2020Q3,3527519.4628715515
+national,,,total,Working age population(16+ years),Male,2020,Q4,2020Q4,3557672.6736289724
+national,,,total,Working age population(16+ years),Male,2021,Q1,2021Q1,3587851.2702293396
+national,,,total,Working age population(16+ years),Male,2021,Q2,2021Q2,3618432.2937812805
+national,,,total,Working age population(16+ years),Male,2021,Q3,2021Q3,3649273.9874534607
+national,,,total,Working age population(16+ years),Male,2021,Q4,2021Q4,3680378.5826661587
+national,,,total,Working age population(16+ years),Male,2022,Q1,2022Q1,3709665.1762161255
+national,,,total,Working age population(16+ years),Male,2022,Q2,2022Q2,3741459.6220703125
+national,,,total,Working age population(16+ years),Male,2022,Q3,2022Q3,3772820.4306896
+national,,,total,Working age population(16+ years),Male,2022,Q4,2022Q4,3791529.074998121
+national,,,total,Working age population(16+ years),Male,2023,Q1,2023Q1,3736144.2658290863
+national,,,total,Working age population(16+ years),Male,2023,Q2,2023Q2,3767222.052635193
+national,,,total,Working age population(16+ years),Male,2023,Q3,2023Q3,3798558.3984909058
+national,,,total,Working age population(16+ years),Male,2023,Q4,2023Q4,3830155.22076416
+national,,,total,Working age population(16+ years),Male,2024,Q1,2024Q1,3855609.394744873
+national,,,total,Working age population(16+ years),Male,2024,Q2,2024Q2,3885261.6103668213
+national,,,total,Working age population(16+ years),Male,2024,Q3,2024Q3,3915141.9359436035
+national,,,total,Working age population(16+ years),Male,2024,Q4,2024Q4,3945251.839828491
+national,,,total,Working age population(16+ years),Male,2025,Q1,2025Q1,3973881.4570617676
+national,,,total,Working age population(16+ years),Male,2025,Q2,2025Q2,4003796.4084472656
+national,,,total,Working age population(16+ years),Male,2025,Q3,2025Q3,4033936.7093048096
+national,,,total,Working age population(16+ years),Male,2025,Q4,2025Q4,4064303.6922302246
+national,,,total,Working age population(16+ years),Male,2026,Q1,2026Q1,4094899.471710205
+national,,,total,Working age population(16+ years),Male,2026,Q2,2026Q2,4122133.1706085205
+national,,,total,Labour force,Male,2019,Q1,2019Q1,2064618.0789899037
+national,,,total,Labour force,Male,2019,Q2,2019Q2,2119958.539988825
+national,,,total,Labour force,Male,2019,Q3,2019Q3,2091237.5682723024
+national,,,total,Labour force,Male,2019,Q4,2019Q4,2207994.997049994
+national,,,total,Labour force,Male,2020,Q1,2020Q1,2217977.6488830256
+national,,,total,Labour force,Male,2020,Q2,2020Q2,2250233.9961128235
+national,,,total,Labour force,Male,2020,Q3,2020Q3,2430252.4521255493
+national,,,total,Labour force,Male,2020,Q4,2020Q4,2316025.344236009
+national,,,total,Labour force,Male,2021,Q1,2021Q1,2074703.4603157043
+national,,,total,Labour force,Male,2021,Q2,2021Q2,2219494.2493228912
+national,,,total,Labour force,Male,2021,Q3,2021Q3,2188363.1813087463
+national,,,total,Labour force,Male,2021,Q4,2021Q4,2525430.832704544
+national,,,total,Labour force,Male,2022,Q1,2022Q1,2293388.474334717
+national,,,total,Labour force,Male,2022,Q2,2022Q2,2345164.129951477
+national,,,total,Labour force,Male,2022,Q3,2022Q3,2476005.214612556
+national,,,total,Labour force,Male,2022,Q4,2022Q4,2515235.4699774426
+national,,,total,Labour force,Male,2023,Q1,2023Q1,2436804.795343399
+national,,,total,Labour force,Male,2023,Q2,2023Q2,2526447.5332489014
+national,,,total,Labour force,Male,2023,Q3,2023Q3,2640226.6887397766
+national,,,total,Labour force,Male,2023,Q4,2023Q4,2582405.0386810303
+national,,,total,Labour force,Male,2024,Q1,2024Q1,2652528.5085906982
+national,,,total,Labour force,Male,2024,Q2,2024Q2,2732215.385910034
+national,,,total,Labour force,Male,2024,Q3,2024Q3,2878267.206665039
+national,,,total,Labour force,Male,2024,Q4,2024Q4,2835194.4865722656
+national,,,total,Labour force,Male,2025,Q1,2025Q1,2777022.444076538
+national,,,total,Labour force,Male,2025,Q2,2025Q2,2800924.8709716797
+national,,,total,Labour force,Male,2025,Q3,2025Q3,3001875.4080581665
+national,,,total,Labour force,Male,2025,Q4,2025Q4,2891880.9482574463
+national,,,total,Labour force,Male,2026,Q1,2026Q1,2909704.906059265
+national,,,total,Labour force,Male,2026,Q2,2026Q2,2882263.850845337
+national,,,total,Employed,Male,2019,Q1,2019Q1,1778662.673653941
+national,,,total,Employed,Male,2019,Q2,2019Q2,1841887.959665392
+national,,,total,Employed,Male,2019,Q3,2019Q3,1792066.6859785158
+national,,,total,Employed,Male,2019,Q4,2019Q4,1898636.1830800015
+national,,,total,Employed,Male,2020,Q1,2020Q1,1945486.6441105453
+national,,,total,Employed,Male,2020,Q2,2020Q2,1808329.9189567566
+national,,,total,Employed,Male,2020,Q3,2020Q3,2113800.9512634277
+national,,,total,Employed,Male,2020,Q4,2020Q4,1885454.2991530127
+national,,,total,Employed,Male,2021,Q1,2021Q1,1748038.1011924744
+national,,,total,Employed,Male,2021,Q2,2021Q2,1776461.1348571777
+national,,,total,Employed,Male,2021,Q3,2021Q3,1813058.2206611633
+national,,,total,Employed,Male,2021,Q4,2021Q4,2002299.1304745674
+national,,,total,Employed,Male,2022,Q1,2022Q1,1949118.9244995117
+national,,,total,Employed,Male,2022,Q2,2022Q2,1875695.9197235107
+national,,,total,Employed,Male,2022,Q3,2022Q3,2095381.0767530864
+national,,,total,Employed,Male,2022,Q4,2022Q4,1990619.8827268258
+national,,,total,Employed,Male,2023,Q1,2023Q1,2059803.1013069153
+national,,,total,Employed,Male,2023,Q2,2023Q2,2175512.2425308228
+national,,,total,Employed,Male,2023,Q3,2023Q3,2248639.8181419373
+national,,,total,Employed,Male,2023,Q4,2023Q4,2222880.141635895
+national,,,total,Employed,Male,2024,Q1,2024Q1,2346249.8633270264
+national,,,total,Employed,Male,2024,Q2,2024Q2,2347795.0636138916
+national,,,total,Employed,Male,2024,Q3,2024Q3,2519344.8046875
+national,,,total,Employed,Male,2024,Q4,2024Q4,2489254.5567474365
+national,,,total,Employed,Male,2025,Q1,2025Q1,2502420.954284668
+national,,,total,Employed,Male,2025,Q2,2025Q2,2470663.182373047
+national,,,total,Employed,Male,2025,Q3,2025Q3,2666343.2031784058
+national,,,total,Employed,Male,2025,Q4,2025Q4,2588345.939437866
+national,,,total,Employed,Male,2026,Q1,2026Q1,2637540.4778289795
+national,,,total,Employed,Male,2026,Q2,2026Q2,2549234.5540161133
+national,,,total,Unemployed,Male,2019,Q1,2019Q1,285955.40533596056
+national,,,total,Unemployed,Male,2019,Q2,2019Q2,278070.5803234331
+national,,,total,Unemployed,Male,2019,Q3,2019Q3,299170.882293781
+national,,,total,Unemployed,Male,2019,Q4,2019Q4,309358.81397000025
+national,,,total,Unemployed,Male,2020,Q1,2020Q1,272491.004772481
+national,,,total,Unemployed,Male,2020,Q2,2020Q2,441904.0771560669
+national,,,total,Unemployed,Male,2020,Q3,2020Q3,316451.5008621216
+national,,,total,Unemployed,Male,2020,Q4,2020Q4,430571.0450830005
+national,,,total,Unemployed,Male,2021,Q1,2021Q1,326665.35912323
+national,,,total,Unemployed,Male,2021,Q2,2021Q2,443033.1144657135
+national,,,total,Unemployed,Male,2021,Q3,2021Q3,375304.960647583
+national,,,total,Unemployed,Male,2021,Q4,2021Q4,523131.70222997665
+national,,,total,Unemployed,Male,2022,Q1,2022Q1,344269.5498352051
+national,,,total,Unemployed,Male,2022,Q2,2022Q2,469468.2102279663
+national,,,total,Unemployed,Male,2022,Q3,2022Q3,380624.1378594679
+national,,,total,Unemployed,Male,2022,Q4,2022Q4,524615.5872506197
+national,,,total,Unemployed,Male,2023,Q1,2023Q1,377001.69403648376
+national,,,total,Unemployed,Male,2023,Q2,2023Q2,350935.2907180786
+national,,,total,Unemployed,Male,2023,Q3,2023Q3,391586.87059783936
+national,,,total,Unemployed,Male,2023,Q4,2023Q4,359524.8970451355
+national,,,total,Unemployed,Male,2024,Q1,2024Q1,306278.6452636719
+national,,,total,Unemployed,Male,2024,Q2,2024Q2,384420.3222961426
+national,,,total,Unemployed,Male,2024,Q3,2024Q3,358922.40197753906
+national,,,total,Unemployed,Male,2024,Q4,2024Q4,345939.9298248291
+national,,,total,Unemployed,Male,2025,Q1,2025Q1,274601.4897918701
+national,,,total,Unemployed,Male,2025,Q2,2025Q2,330261.6885986328
+national,,,total,Unemployed,Male,2025,Q3,2025Q3,335532.20487976074
+national,,,total,Unemployed,Male,2025,Q4,2025Q4,303535.0088195801
+national,,,total,Unemployed,Male,2026,Q1,2026Q1,272164.42823028564
+national,,,total,Unemployed,Male,2026,Q2,2026Q2,333029.29682922363
+national,,,total,out of labour force,Male,2019,Q1,2019Q1,1271000.3726628781
+national,,,total,out of labour force,Male,2019,Q2,2019Q2,1232147.1678277198
+national,,,total,out of labour force,Male,2019,Q3,2019Q3,1288359.5365333455
+national,,,total,out of labour force,Male,2019,Q4,2019Q4,1230063.971929999
+national,,,total,out of labour force,Male,2020,Q1,2020Q1,1249999.8559152437
+national,,,total,out of labour force,Male,2020,Q2,2020Q2,1247387.7408638
+national,,,total,out of labour force,Male,2020,Q3,2020Q3,1097267.0107460022
+national,,,total,out of labour force,Male,2020,Q4,2020Q4,1241647.3293930017
+national,,,total,out of labour force,Male,2021,Q1,2021Q1,1513147.8099136353
+national,,,total,out of labour force,Male,2021,Q2,2021Q2,1398938.0444583893
+national,,,total,out of labour force,Male,2021,Q3,2021Q3,1460910.8061447144
+national,,,total,out of labour force,Male,2021,Q4,2021Q4,1154947.7499616146
+national,,,total,out of labour force,Male,2022,Q1,2022Q1,1416276.7018814087
+national,,,total,out of labour force,Male,2022,Q2,2022Q2,1396295.4921188354
+national,,,total,out of labour force,Male,2022,Q3,2022Q3,1296815.21607706
+national,,,total,out of labour force,Male,2022,Q4,2022Q4,1276293.6050206583
+national,,,total,out of labour force,Male,2023,Q1,2023Q1,1299339.4704856873
+national,,,total,out of labour force,Male,2023,Q2,2023Q2,1240774.5193862915
+national,,,total,out of labour force,Male,2023,Q3,2023Q3,1158331.7097511292
+national,,,total,out of labour force,Male,2023,Q4,2023Q4,1247750.1820831299
+national,,,total,out of labour force,Male,2024,Q1,2024Q1,1203080.8861541748
+national,,,total,out of labour force,Male,2024,Q2,2024Q2,1153046.224456787
+national,,,total,out of labour force,Male,2024,Q3,2024Q3,1036874.7292785645
+national,,,total,out of labour force,Male,2024,Q4,2024Q4,1110057.3532562256
+national,,,total,out of labour force,Male,2025,Q1,2025Q1,1196859.0129852295
+national,,,total,out of labour force,Male,2025,Q2,2025Q2,1202871.537475586
+national,,,total,out of labour force,Male,2025,Q3,2025Q3,1032061.3012466431
+national,,,total,out of labour force,Male,2025,Q4,2025Q4,1172422.7439727783
+national,,,total,out of labour force,Male,2026,Q1,2026Q1,1185194.56565094
+national,,,total,out of labour force,Male,2026,Q2,2026Q2,1239869.3197631836
+national,,,total,Time related underemployed,Male,2019,Q1,2019Q1,447698.0221577985
+national,,,total,Time related underemployed,Male,2019,Q2,2019Q2,429686.7066027243
+national,,,total,Time related underemployed,Male,2019,Q3,2019Q3,442582.5880116839
+national,,,total,Time related underemployed,Male,2019,Q4,2019Q4,401103.5988900007
+national,,,total,Time related underemployed,Male,2020,Q1,2020Q1,561987.977869804
+national,,,total,Time related underemployed,Male,2020,Q3,2020Q3,513398.7995567322
+national,,,total,Time related underemployed,Male,2020,Q4,2020Q4,565538.2416260006
+national,,,total,Time related underemployed,Male,2021,Q1,2021Q1,540901.6272468567
+national,,,total,Time related underemployed,Male,2021,Q2,2021Q2,507202.61977005005
+national,,,total,Time related underemployed,Male,2021,Q3,2021Q3,509049.7187423706
+national,,,total,Time related underemployed,Male,2021,Q4,2021Q4,558489.7359359264
+national,,,total,Time related underemployed,Male,2022,Q1,2022Q1,504297.027305603
+national,,,total,Time related underemployed,Male,2022,Q2,2022Q2,562139.1880111694
+national,,,total,Time related underemployed,Male,2022,Q3,2022Q3,665457.5225605761
+national,,,total,Time related underemployed,Male,2022,Q4,2022Q4,612561.2348405271
+national,,,total,Time related underemployed,Male,2023,Q1,2023Q1,534836.542350769
+national,,,total,Time related underemployed,Male,2023,Q2,2023Q2,604486.443145752
+national,,,total,Time related underemployed,Male,2023,Q3,2023Q3,619242.8603019714
+national,,,total,Time related underemployed,Male,2023,Q4,2023Q4,621569.8624305725
+national,,,total,Time related underemployed,Male,2024,Q1,2024Q1,598187.3071136475
+national,,,total,Time related underemployed,Male,2024,Q2,2024Q2,666659.0328826904
+national,,,total,Time related underemployed,Male,2024,Q3,2024Q3,814799.3092651367
+national,,,total,Time related underemployed,Male,2024,Q4,2024Q4,777495.7076263428
+national,,,total,Time related underemployed,Male,2025,Q1,2025Q1,797299.9605865479
+national,,,total,Time related underemployed,Male,2025,Q2,2025Q2,808652.1369476318
+national,,,total,Time related underemployed,Male,2025,Q3,2025Q3,827325.9226760864
+national,,,total,Time related underemployed,Male,2025,Q4,2025Q4,843775.1272583008
+national,,,total,Time related underemployed,Male,2026,Q1,2026Q1,895827.5539932251
+national,,,total,Time related underemployed,Male,2026,Q2,2026Q2,934179.6209564209
+national,,,total,Potential labour force,Male,2019,Q1,2019Q1,533362.3357637606
+national,,,total,Potential labour force,Male,2019,Q2,2019Q2,527394.5486427977
+national,,,total,Potential labour force,Male,2019,Q3,2019Q3,549388.2800504306
+national,,,total,Potential labour force,Male,2019,Q4,2019Q4,564980.4813900009
+national,,,total,Potential labour force,Male,2020,Q1,2020Q1,577008.4397437797
+national,,,total,Potential labour force,Male,2020,Q3,2020Q3,611073.9515190125
+national,,,total,Potential labour force,Male,2020,Q4,2020Q4,522215.2178239998
+national,,,total,Potential labour force,Male,2021,Q1,2021Q1,552706.8031311035
+national,,,total,Potential labour force,Male,2021,Q2,2021Q2,461954.6768169403
+national,,,total,Potential labour force,Male,2021,Q3,2021Q3,592548.5815544128
+national,,,total,Potential labour force,Male,2021,Q4,2021Q4,351583.3207819462
+national,,,total,Potential labour force,Male,2022,Q1,2022Q1,419772.3251571655
+national,,,total,Potential labour force,Male,2022,Q2,2022Q2,452829.3326950073
+national,,,total,Potential labour force,Male,2022,Q3,2022Q3,514126.27538594854
+national,,,total,Potential labour force,Male,2022,Q4,2022Q4,386121.5842436887
+national,,,total,Potential labour force,Male,2023,Q1,2023Q1,496368.0978488922
+national,,,total,Potential labour force,Male,2023,Q2,2023Q2,460520.1244659424
+national,,,total,Potential labour force,Male,2023,Q3,2023Q3,493438.4517440796
+national,,,total,Potential labour force,Male,2023,Q4,2023Q4,468061.17280197144
+national,,,total,Potential labour force,Male,2024,Q1,2024Q1,428228.3055114746
+national,,,total,Potential labour force,Male,2024,Q2,2024Q2,410512.2932434082
+national,,,total,Potential labour force,Male,2024,Q3,2024Q3,548149.3900146484
+national,,,total,Potential labour force,Male,2024,Q4,2024Q4,441212.4105529785
+national,,,total,Potential labour force,Male,2025,Q1,2025Q1,453330.5917663574
+national,,,total,Potential labour force,Male,2025,Q2,2025Q2,487282.135055542
+national,,,total,Potential labour force,Male,2025,Q3,2025Q3,554234.6535186768
+national,,,total,Potential labour force,Male,2025,Q4,2025Q4,540073.425994873
+national,,,total,Potential labour force,Male,2026,Q1,2026Q1,516718.2744522095
+national,,,total,Potential labour force,Male,2026,Q2,2026Q2,547763.0105438232
+national,,,total,Labour force participation rate(%),Male,2019,Q1,2019Q1,61.896110388971344
+national,,,total,Labour force participation rate(%),Male,2019,Q2,2019Q2,63.24259211293485
+national,,,total,Labour force participation rate(%),Male,2019,Q3,2019Q3,61.87830985233849
+national,,,total,Labour force participation rate(%),Male,2019,Q4,2019Q4,64.22213862448864
+national,,,total,Labour force participation rate(%),Male,2020,Q1,2020Q1,63.95594105827529
+national,,,total,Labour force participation rate(%),Male,2020,Q2,2020Q2,64.33611651950524
+national,,,total,Labour force participation rate(%),Male,2020,Q3,2020Q3,68.89409052748982
+national,,,total,Labour force participation rate(%),Male,2020,Q4,2020Q4,65.09945002538811
+national,,,total,Labour force participation rate(%),Male,2021,Q1,2021Q1,57.82579332456796
+national,,,total,Labour force participation rate(%),Male,2021,Q2,2021Q2,61.338559605975334
+national,,,total,Labour force participation rate(%),Male,2021,Q3,2021Q3,59.967083557785465
+national,,,total,Labour force participation rate(%),Male,2021,Q4,2021Q4,68.61877863866545
+national,,,total,Labour force participation rate(%),Male,2022,Q1,2022Q1,61.82198029726184
+national,,,total,Labour force participation rate(%),Male,2022,Q2,2022Q2,62.68046075167305
+national,,,total,Labour force participation rate(%),Male,2022,Q3,2022Q3,65.62743337773901
+national,,,total,Labour force participation rate(%),Male,2022,Q4,2022Q4,66.33828780486674
+national,,,total,Labour force participation rate(%),Male,2023,Q1,2023Q1,65.2224491872679
+national,,,total,Labour force participation rate(%),Male,2023,Q2,2023Q2,67.06393989920602
+national,,,total,Labour force participation rate(%),Male,2023,Q3,2023Q3,69.50601811962896
+national,,,total,Labour force participation rate(%),Male,2023,Q4,2023Q4,67.42298653279673
+national,,,total,Labour force participation rate(%),Male,2024,Q1,2024Q1,68.79660870746002
+national,,,total,Labour force participation rate(%),Male,2024,Q2,2024Q2,70.32255893965596
+national,,,total,Labour force participation rate(%),Male,2024,Q3,2024Q3,73.51629273617475
+national,,,total,Labour force participation rate(%),Male,2024,Q4,2024Q4,71.86346022198465
+national,,,total,Labour force participation rate(%),Male,2025,Q1,2025Q1,69.88186421972007
+national,,,total,Labour force participation rate(%),Male,2025,Q2,2025Q2,69.95672569819607
+national,,,total,Labour force participation rate(%),Male,2025,Q3,2025Q3,74.41553064364999
+national,,,total,Labour force participation rate(%),Male,2025,Q4,2025Q4,71.15317080723786
+national,,,total,Labour force participation rate(%),Male,2026,Q1,2026Q1,71.05680923698105
+national,,,total,Labour force participation rate(%),Male,2026,Q2,2026Q2,69.92165782989125
+national,,,total,Employment-to-population ratio(%),Male,2019,Q1,2019Q1,53.32332517745322
+national,,,total,Employment-to-population ratio(%),Male,2019,Q2,2019Q2,54.94719201039575
+national,,,total,Employment-to-population ratio(%),Male,2019,Q3,2019Q3,53.02604512917451
+national,,,total,Employment-to-population ratio(%),Male,2019,Q4,2019Q4,55.22407265874458
+national,,,total,Employment-to-population ratio(%),Male,2020,Q1,2020Q1,56.09859468288896
+national,,,total,Employment-to-population ratio(%),Male,2020,Q2,2020Q2,51.701700610995566
+national,,,total,Employment-to-population ratio(%),Male,2020,Q3,2020Q3,59.923154882969904
+national,,,total,Employment-to-population ratio(%),Male,2020,Q4,2020Q4,52.996845750560425
+national,,,total,Employment-to-population ratio(%),Male,2021,Q1,2021Q1,48.721030208165175
+national,,,total,Employment-to-population ratio(%),Male,2021,Q2,2021Q2,49.0947733887475
+national,,,total,Employment-to-population ratio(%),Male,2021,Q3,2021Q3,49.68271022933943
+national,,,total,Employment-to-population ratio(%),Male,2021,Q4,2021Q4,54.40470553504992
+national,,,total,Employment-to-population ratio(%),Male,2022,Q1,2022Q1,52.54164006487565
+national,,,total,Employment-to-population ratio(%),Male,2022,Q2,2022Q2,50.13273185307307
+national,,,total,Employment-to-population ratio(%),Male,2022,Q3,2022Q3,55.53884992003397
+national,,,total,Employment-to-population ratio(%),Male,2022,Q4,2022Q4,52.501770218597585
+national,,,total,Employment-to-population ratio(%),Male,2023,Q1,2023Q1,55.131787071124386
+national,,,total,Employment-to-population ratio(%),Male,2023,Q2,2023Q2,57.748447320991865
+national,,,total,Employment-to-population ratio(%),Male,2023,Q3,2023Q3,59.197189624234255
+national,,,total,Employment-to-population ratio(%),Male,2023,Q4,2023Q4,58.03629392315867
+national,,,total,Employment-to-population ratio(%),Male,2024,Q1,2024Q1,60.85289309972434
+national,,,total,Employment-to-population ratio(%),Male,2024,Q2,2024Q2,60.428236218364404
+national,,,total,Employment-to-population ratio(%),Male,2024,Q3,2024Q3,64.34874765479742
+national,,,total,Employment-to-population ratio(%),Male,2024,Q4,2024Q4,63.094946984566896
+national,,,total,Employment-to-population ratio(%),Male,2025,Q1,2025Q1,62.971706159924636
+national,,,total,Employment-to-population ratio(%),Male,2025,Q2,2025Q2,61.70801235448454
+national,,,total,Employment-to-population ratio(%),Male,2025,Q3,2025Q3,66.09779466862065
+national,,,total,Employment-to-population ratio(%),Male,2025,Q4,2025Q4,63.684855646639704
+national,,,total,Employment-to-population ratio(%),Male,2026,Q1,2026Q1,64.41038409002577
+national,,,total,Employment-to-population ratio(%),Male,2026,Q2,2026Q2,61.84260547894401
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2019,Q1,2019Q1,38.103889611028656
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2019,Q2,2019Q2,36.75740788706515
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2019,Q3,2019Q3,38.1216901476615
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2019,Q4,2019Q4,35.77786137551138
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2020,Q1,2020Q1,36.0440589417247
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2020,Q2,2020Q2,35.66388348049476
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2020,Q3,2020Q3,31.10590947251018
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2020,Q4,2020Q4,34.90054997461189
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2021,Q1,2021Q1,42.17420667543204
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2021,Q2,2021Q2,38.661440394024666
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2021,Q3,2021Q3,40.032916442214535
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2021,Q4,2021Q4,31.381221361334557
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2022,Q1,2022Q1,38.17801970273816
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2022,Q2,2022Q2,37.31953924832695
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2022,Q3,2022Q3,34.37256662226099
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2022,Q4,2022Q4,33.66171219513326
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2023,Q1,2023Q1,34.7775508127321
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2023,Q2,2023Q2,32.93606010079397
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2023,Q3,2023Q3,30.493981880371038
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2023,Q4,2023Q4,32.57701346720328
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2024,Q1,2024Q1,31.203391292539973
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2024,Q2,2024Q2,29.67744106034404
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2024,Q3,2024Q3,26.483707263825245
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2024,Q4,2024Q4,28.136539778015344
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2025,Q1,2025Q1,30.118135780279925
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2025,Q2,2025Q2,30.043274301803926
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2025,Q3,2025Q3,25.584469356350013
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2025,Q4,2025Q4,28.84682919276215
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2026,Q1,2026Q1,28.94319076301895
+national,,,total,Out of labour force (Inactivity rate(%)),Male,2026,Q2,2026Q2,30.07834217010875
+national,,,total,Time related underemployment rate(%),Male,2019,Q1,2019Q1,25.170485038519534
+national,,,total,Time related underemployment rate(%),Male,2019,Q2,2019Q2,23.32860173974882
+national,,,total,Time related underemployment rate(%),Male,2019,Q3,2019Q3,24.696770018355767
+national,,,total,Time related underemployment rate(%),Male,2019,Q4,2019Q4,21.125879853365213
+national,,,total,Time related underemployment rate(%),Male,2020,Q1,2020Q1,28.886755895810154
+national,,,total,Time related underemployment rate(%),Male,2020,Q2,2020Q2,0.0
+national,,,total,Time related underemployment rate(%),Male,2020,Q3,2020Q3,24.287944389932814
+national,,,total,Time related underemployment rate(%),Male,2020,Q4,2020Q4,29.994799761524632
+national,,,total,Time related underemployment rate(%),Male,2021,Q1,2021Q1,30.943354545754186
+national,,,total,Time related underemployment rate(%),Male,2021,Q2,2021Q2,28.551292781917667
+national,,,total,Time related underemployment rate(%),Male,2021,Q3,2021Q3,28.076854507007322
+national,,,total,Time related underemployment rate(%),Male,2021,Q4,2021Q4,27.8924226373488
+national,,,total,Time related underemployment rate(%),Male,2022,Q1,2022Q1,25.87307634063913
+national,,,total,Time related underemployment rate(%),Male,2022,Q2,2022Q2,29.96963324919064
+national,,,total,Time related underemployment rate(%),Male,2022,Q3,2022Q3,31.758305443501637
+national,,,total,Time related underemployment rate(%),Male,2022,Q4,2022Q4,30.772386036927315
+national,,,total,Time related underemployment rate(%),Male,2023,Q1,2023Q1,25.965420773054618
+national,,,total,Time related underemployment rate(%),Male,2023,Q2,2023Q2,27.78593617301547
+national,,,total,Time related underemployment rate(%),Male,2023,Q3,2023Q3,27.53855265329487
+national,,,total,Time related underemployment rate(%),Male,2023,Q4,2023Q4,27.962365167072736
+national,,,total,Time related underemployment rate(%),Male,2024,Q1,2024Q1,25.495464761174524
+national,,,total,Time related underemployment rate(%),Male,2024,Q2,2024Q2,28.395111788697683
+national,,,total,Time related underemployment rate(%),Male,2024,Q3,2024Q3,32.34171470888458
+national,,,total,Time related underemployment rate(%),Male,2024,Q4,2024Q4,31.23407790974383
+national,,,total,Time related underemployment rate(%),Male,2025,Q1,2025Q1,31.861144673577144
+national,,,total,Time related underemployment rate(%),Male,2025,Q2,2025Q2,32.73016503086955
+national,,,total,Time related underemployment rate(%),Male,2025,Q3,2025Q3,31.02848581870013
+national,,,total,Time related underemployment rate(%),Male,2025,Q4,2025Q4,32.59900905833131
+national,,,total,Time related underemployment rate(%),Male,2026,Q1,2026Q1,33.964504489068595
+national,,,total,Time related underemployment rate(%),Male,2026,Q2,2026Q2,36.64549499710399
+national,,,total,LU1-Unemployment rate (%),Male,2019,Q1,2019Q1,13.850280991235959
+national,,,total,LU1-Unemployment rate (%),Male,2019,Q2,2019Q2,13.11679332770813
+national,,,total,LU1-Unemployment rate (%),Male,2019,Q3,2019Q3,14.305925201073402
+national,,,total,LU1-Unemployment rate (%),Male,2019,Q4,2019Q4,14.010847596272637
+national,,,total,LU1-Unemployment rate (%),Male,2020,Q1,2020Q1,12.285561349534188
+national,,,total,LU1-Unemployment rate (%),Male,2020,Q2,2020Q2,19.638138874420882
+national,,,total,LU1-Unemployment rate (%),Male,2020,Q3,2020Q3,13.021342724511872
+national,,,total,LU1-Unemployment rate (%),Male,2020,Q4,2020Q4,18.590947035816434
+national,,,total,LU1-Unemployment rate (%),Male,2021,Q1,2021Q1,15.745159024968409
+national,,,total,LU1-Unemployment rate (%),Male,2021,Q2,2021Q2,19.96099402379038
+national,,,total,LU1-Unemployment rate (%),Male,2021,Q3,2021Q3,17.1500308473995
+national,,,total,LU1-Unemployment rate (%),Male,2021,Q4,2021Q4,20.714552758894705
+national,,,total,LU1-Unemployment rate (%),Male,2022,Q1,2022Q1,15.011392691989235
+national,,,total,LU1-Unemployment rate (%),Male,2022,Q2,2022Q2,20.018565192606793
+national,,,total,LU1-Unemployment rate (%),Male,2022,Q3,2022Q3,15.372509541302758
+national,,,total,LU1-Unemployment rate (%),Male,2022,Q4,2022Q4,20.857513879419226
+national,,,total,LU1-Unemployment rate (%),Male,2023,Q1,2023Q1,15.47114872545037
+national,,,total,LU1-Unemployment rate (%),Male,2023,Q2,2023Q2,13.89046422297126
+national,,,total,LU1-Unemployment rate (%),Male,2023,Q3,2023Q3,14.83156246650738
+national,,,total,LU1-Unemployment rate (%),Male,2023,Q4,2023Q4,13.922095552786086
+national,,,total,LU1-Unemployment rate (%),Male,2024,Q1,2024Q1,11.546667425881854
+national,,,total,LU1-Unemployment rate (%),Male,2024,Q2,2024Q2,14.06991279964927
+national,,,total,LU1-Unemployment rate (%),Male,2024,Q3,2024Q3,12.47008620834101
+national,,,total,LU1-Unemployment rate (%),Male,2024,Q4,2024Q4,12.201629604714299
+national,,,total,LU1-Unemployment rate (%),Male,2025,Q1,2025Q1,9.888342471901957
+national,,,total,LU1-Unemployment rate (%),Male,2025,Q2,2025Q2,11.791165554685529
+national,,,total,LU1-Unemployment rate (%),Male,2025,Q3,2025Q3,11.177419421840948
+national,,,total,LU1-Unemployment rate (%),Male,2025,Q4,2025Q4,10.496110118311766
+national,,,total,LU1-Unemployment rate (%),Male,2026,Q1,2026Q1,9.353678019496805
+national,,,total,LU1-Unemployment rate (%),Male,2026,Q2,2026Q2,11.55443477985368
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2019,Q1,2019Q1,35.53458312506353
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2019,Q2,2019Q2,33.38543059100997
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2019,Q3,2019Q3,35.469593773522064
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2019,Q4,2019Q4,32.176812620011184
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2020,Q1,2020Q1,37.623417127874404
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2020,Q2,2020Q2,0.0
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2020,Q3,2020Q3,34.14667063469268
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2020,Q4,2020Q4,43.00942946017683
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2021,Q1,2021Q1,41.81643318983381
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2021,Q2,2021Q2,42.81316495979457
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2021,Q3,2021Q3,40.41169614547559
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2021,Q4,2021Q4,42.829184793296
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2022,Q1,2022Q1,37.000559941636865
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2022,Q2,2022Q2,43.988707871823046
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2022,Q3,2022Q3,42.248766450346025
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2022,Q4,2022Q4,45.21154522766596
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2023,Q1,2023Q1,37.41942063351672
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2023,Q2,2023Q2,37.81680487285639
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2023,Q3,2023Q3,38.2857174806568
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2023,Q4,2023Q4,37.991513522479984
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2024,Q1,2024Q1,34.09825566240065
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2024,Q2,2024Q2,38.46985712031426
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2024,Q3,2024Q3,40.77876121177198
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2024,Q4,2024Q4,39.6246410174633
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2025,Q1,2025Q1,38.598948044687646
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2025,Q2,2025Q2,40.662062640443466
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2025,Q3,2025Q3,38.73772124033852
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2025,Q4,2025Q4,39.6734912884022
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2026,Q1,2026Q1,40.141252117740386
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Male,2026,Q2,2026Q2,43.965749957762746
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2019,Q1,2019Q1,31.536717384276567
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2019,Q2,2019Q2,30.425300366055964
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2019,Q3,2019Q3,32.13477452260791
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2019,Q4,2019Q4,31.530725827113308
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2020,Q1,2020Q1,30.393691330808114
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2020,Q2,2020Q2,19.638138874420882
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2020,Q3,2020Q3,30.497399137088262
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2020,Q4,2020Q4,33.569609131914675
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2021,Q1,2021Q1,33.46916065939074
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2021,Q2,2021Q2,33.749954454118914
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2021,Q3,2021Q3,34.80346104924657
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2021,Q4,2021Q4,30.40357038048997
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2022,Q1,2022Q1,28.160582120140447
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2022,Q2,2022Q2,32.962819793389286
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2022,Q3,2022Q3,29.923447053690126
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2022,Q4,2022Q4,31.39004109023033
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2023,Q1,2023Q1,29.77559876925128
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2023,Q2,2023Q2,27.16652833813469
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2023,Q3,2023Q3,28.242498246167614
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2023,Q4,2023Q4,27.129822540954198
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2024,Q1,2024Q1,23.841769899296786
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2024,Q2,2024Q2,25.29435244461531
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2024,Q3,2024Q3,26.472898621585315
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2024,Q4,2024Q4,24.02486519816766
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2025,Q1,2025Q1,22.5341339934472
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2025,Q2,2025Q2,24.86290620254845
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2025,Q3,2025Q3,25.02079077957162
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2025,Q4,2025Q4,24.58099213507873
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2026,Q1,2026Q1,23.023504719715785
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Male,2026,Q2,2026Q2,25.67887491750797
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2019,Q1,2019Q1,48.769257691946585
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2019,Q2,2019Q2,46.656104955285244
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2019,Q3,2019Q3,48.89529318119802
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2019,Q4,2019Q4,45.99546242534857
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2020,Q1,2020Q1,50.500695804161715
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2020,Q3,2020Q3,47.37815218422923
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2020,Q4,2020Q4,53.495271853595014
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2021,Q1,2021Q1,54.05603415882157
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2021,Q2,2021Q2,52.665198926077224
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2021,Q3,2021Q3,53.108598434053974
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2021,Q4,2021Q4,49.815700670468715
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2022,Q1,2022Q1,46.747649550867266
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2022,Q2,2022Q2,53.05361684190954
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2022,Q3,2022Q3,52.17857278265635
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2022,Q4,2022Q4,52.50296250572187
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2023,Q1,2023Q1,48.00966003417333
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2023,Q2,2023Q2,47.403990286691894
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2023,Q3,2023Q3,48.00347564933573
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2023,Q4,2023Q4,47.50604765994651
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2024,Q1,2024Q1,43.258664617355784
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2024,Q2,2024Q2,46.50710458043729
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2024,Q3,2024Q3,50.252823983104534
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2024,Q4,2024Q4,47.75499799420487
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2025,Q1,2025Q1,47.21564563443441
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2025,Q2,2025Q2,49.455401001853595
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2025,Q3,2025Q3,48.28570407950574
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2025,Q4,2025Q4,49.16684134066802
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2026,Q1,2026Q1,49.1681899147156
+national,,,total,LU4 - Composite measure of labour underutilization(%),Male,2026,Q2,2026Q2,52.91421909140398
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2019,Q1,2019Q1,26.11512701941981
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2019,Q2,2019Q2,25.9867918834503
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2019,Q3,2019Q3,27.213210095354274
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2019,Q4,2019Q4,26.83977414370708
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2020,Q1,2020Q1,28.558497290535126
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2020,Q3,2020Q3,22.952204498957517
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2020,Q4,2020Q4,28.886780871454643
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2021,Q1,2021Q1,28.4473950511814
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2021,Q2,2021Q2,31.653293315869885
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2021,Q3,2021Q3,31.662380867905824
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2021,Q4,2021Q4,27.982814935313385
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2022,Q1,2022Q1,27.5881834456946
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2022,Q2,2022Q2,30.73573896423893
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2022,Q3,2022Q3,27.99552234269739
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2022,Q4,2022Q4,29.947992814673878
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2023,Q1,2023Q1,27.409858637648895
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2023,Q2,2023Q2,27.317230740754468
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2023,Q3,2023Q3,24.68711788827372
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2023,Q4,2023Q4,24.143721017787584
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2024,Q1,2024Q1,21.88263744382769
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2024,Q2,2024Q2,21.510118335343122
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2024,Q3,2024Q3,21.722068662883505
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2024,Q4,2024Q4,20.02347894526306
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2025,Q1,2025Q1,16.979669804072742
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2025,Q2,2025Q2,18.405584071530704
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2025,Q3,2025Q3,18.591428013903734
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2025,Q4,2025Q4,19.340658964889272
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2026,Q1,2026Q1,15.904488624292025
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Male,2026,Q2,2026Q2,18.731943274054867
+national,,,total,Median monthly earnings at main job,Male,2019,Q1,2019Q1,26000.0
+national,,,total,Median monthly earnings at main job,Male,2019,Q2,2019Q2,26000.0
+national,,,total,Median monthly earnings at main job,Male,2019,Q3,2019Q3,26000.0
+national,,,total,Median monthly earnings at main job,Male,2019,Q4,2019Q4,26000.0
+national,,,total,Median monthly earnings at main job,Male,2020,Q1,2020Q1,26000.0
+national,,,total,Median monthly earnings at main job,Male,2020,Q3,2020Q3,39000.0
+national,,,total,Median monthly earnings at main job,Male,2020,Q4,2020Q4,30000.0
+national,,,total,Median monthly earnings at main job,Male,2021,Q1,2021Q1,26000.0
+national,,,total,Median monthly earnings at main job,Male,2021,Q2,2021Q2,26000.0
+national,,,total,Median monthly earnings at main job,Male,2021,Q3,2021Q3,26000.0
+national,,,total,Median monthly earnings at main job,Male,2021,Q4,2021Q4,26000.0
+national,,,total,Median monthly earnings at main job,Male,2022,Q1,2022Q1,26000.0
+national,,,total,Median monthly earnings at main job,Male,2022,Q2,2022Q2,26000.0
+national,,,total,Median monthly earnings at main job,Male,2022,Q3,2022Q3,30000.0
+national,,,total,Median monthly earnings at main job,Male,2022,Q4,2022Q4,30000.0
+national,,,total,Median monthly earnings at main job,Male,2023,Q1,2023Q1,31200.0
+national,,,total,Median monthly earnings at main job,Male,2023,Q2,2023Q2,37500.0
+national,,,total,Median monthly earnings at main job,Male,2023,Q3,2023Q3,39000.0
+national,,,total,Median monthly earnings at main job,Male,2023,Q4,2023Q4,39000.0
+national,,,total,Median monthly earnings at main job,Male,2024,Q1,2024Q1,39000.0
+national,,,total,Median monthly earnings at main job,Male,2024,Q2,2024Q2,39000.0
+national,,,total,Median monthly earnings at main job,Male,2024,Q3,2024Q3,52000.0
+national,,,total,Median monthly earnings at main job,Male,2024,Q4,2024Q4,41600.0
+national,,,total,Median monthly earnings at main job,Male,2025,Q1,2025Q1,39000.0
+national,,,total,Median monthly earnings at main job,Male,2025,Q2,2025Q2,50000.0
+national,,,total,Median monthly earnings at main job,Male,2025,Q3,2025Q3,52000.0
+national,,,total,Median monthly earnings at main job,Male,2025,Q4,2025Q4,52000.0
+national,,,total,Median monthly earnings at main job,Male,2026,Q1,2026Q1,52000.0
+national,,,total,Median monthly earnings at main job,Male,2026,Q2,2026Q2,52000.0
+national,,,total,Working age population(16+ years),Female,2019,Q1,2019Q1,3765357.000000016
+national,,,total,Working age population(16+ years),Female,2019,Q2,2019Q2,3778227.448417749
+national,,,total,Working age population(16+ years),Female,2019,Q3,2019Q3,3801934.900640656
+national,,,total,Working age population(16+ years),Female,2019,Q4,2019Q4,3882939.9758799784
+national,,,total,Working age population(16+ years),Female,2020,Q1,2020Q1,3913801.198414994
+national,,,total,Working age population(16+ years),Female,2020,Q2,2020Q2,3944376.4226226807
+national,,,total,Working age population(16+ years),Female,2020,Q3,2020Q3,3975190.631126404
+national,,,total,Working age population(16+ years),Female,2020,Q4,2020Q4,4006245.454349963
+national,,,total,Working age population(16+ years),Female,2021,Q1,2021Q1,4037406.87915802
+national,,,total,Working age population(16+ years),Female,2021,Q2,2021Q2,4068896.312259674
+national,,,total,Working age population(16+ years),Female,2021,Q3,2021Q3,4100631.376274109
+national,,,total,Working age population(16+ years),Female,2021,Q4,2021Q4,4132613.9963138103
+national,,,total,Working age population(16+ years),Female,2022,Q1,2022Q1,4163661.0789222717
+national,,,total,Working age population(16+ years),Female,2022,Q2,2022Q2,4195687.665802002
+national,,,total,Working age population(16+ years),Female,2022,Q3,2022Q3,4227960.492203651
+national,,,total,Working age population(16+ years),Female,2022,Q4,2022Q4,4251561.610332537
+national,,,total,Working age population(16+ years),Female,2023,Q1,2023Q1,4240105.370681763
+national,,,total,Working age population(16+ years),Female,2023,Q2,2023Q2,4280699.004295349
+national,,,total,Working age population(16+ years),Female,2023,Q3,2023Q3,4301871.632526398
+national,,,total,Working age population(16+ years),Female,2023,Q4,2023Q4,4333091.162456512
+national,,,total,Working age population(16+ years),Female,2024,Q1,2024Q1,4358832.334564209
+national,,,total,Working age population(16+ years),Female,2024,Q2,2024Q2,4388312.426803589
+national,,,total,Working age population(16+ years),Female,2024,Q3,2024Q3,4417991.989898682
+national,,,total,Working age population(16+ years),Female,2024,Q4,2024Q4,4447872.036773682
+national,,,total,Working age population(16+ years),Female,2025,Q1,2025Q1,4476695.717681885
+national,,,total,Working age population(16+ years),Female,2025,Q2,2025Q2,4507155.242218018
+national,,,total,Working age population(16+ years),Female,2025,Q3,2025Q3,4537340.749153137
+national,,,total,Working age population(16+ years),Female,2025,Q4,2025Q4,4567728.195449829
+national,,,total,Working age population(16+ years),Female,2026,Q1,2026Q1,4598319.356552124
+national,,,total,Working age population(16+ years),Female,2026,Q2,2026Q2,4625949.226867676
+national,,,total,Labour force,Female,2019,Q1,2019Q1,1663376.5062483964
+national,,,total,Labour force,Female,2019,Q2,2019Q2,1712813.5576819617
+national,,,total,Labour force,Female,2019,Q3,2019Q3,1662616.844300522
+national,,,total,Labour force,Female,2019,Q4,2019Q4,1817997.448590004
+national,,,total,Labour force,Female,2020,Q1,2020Q1,1887670.75053466
+national,,,total,Labour force,Female,2020,Q2,2020Q2,1854068.5991859436
+national,,,total,Labour force,Female,2020,Q3,2020Q3,1934569.0591049194
+national,,,total,Labour force,Female,2020,Q4,2020Q4,1961087.5312790158
+national,,,total,Labour force,Female,2021,Q1,2021Q1,1785868.8898925781
+national,,,total,Labour force,Female,2021,Q2,2021Q2,1874062.192024231
+national,,,total,Labour force,Female,2021,Q3,2021Q3,1755240.9518737793
+national,,,total,Labour force,Female,2021,Q4,2021Q4,2243338.1983139515
+national,,,total,Labour force,Female,2022,Q1,2022Q1,1999916.2170562744
+national,,,total,Labour force,Female,2022,Q2,2022Q2,1964689.280872345
+national,,,total,Labour force,Female,2022,Q3,2022Q3,2055184.5369059218
+national,,,total,Labour force,Female,2022,Q4,2022Q4,2203602.1372696464
+national,,,total,Labour force,Female,2023,Q1,2023Q1,2159252.4721164703
+national,,,total,Labour force,Female,2023,Q2,2023Q2,2263873.3672618866
+national,,,total,Labour force,Female,2023,Q3,2023Q3,2206842.736442566
+national,,,total,Labour force,Female,2023,Q4,2023Q4,2317800.956439972
+national,,,total,Labour force,Female,2024,Q1,2024Q1,2360673.103225708
+national,,,total,Labour force,Female,2024,Q2,2024Q2,2441030.5651397705
+national,,,total,Labour force,Female,2024,Q3,2024Q3,2460412.87109375
+national,,,total,Labour force,Female,2024,Q4,2024Q4,2539315.8434143066
+national,,,total,Labour force,Female,2025,Q1,2025Q1,2546529.245452881
+national,,,total,Labour force,Female,2025,Q2,2025Q2,2491471.1333465576
+national,,,total,Labour force,Female,2025,Q3,2025Q3,2641356.9641189575
+national,,,total,Labour force,Female,2025,Q4,2025Q4,2645116.086578369
+national,,,total,Labour force,Female,2026,Q1,2026Q1,2679865.5160598755
+national,,,total,Labour force,Female,2026,Q2,2026Q2,2552669.379760742
+national,,,total,Employed,Female,2019,Q1,2019Q1,1407387.872689727
+national,,,total,Employed,Female,2019,Q2,2019Q2,1417046.9197629958
+national,,,total,Employed,Female,2019,Q3,2019Q3,1360765.4290855136
+national,,,total,Employed,Female,2019,Q4,2019Q4,1507240.855240003
+national,,,total,Employed,Female,2020,Q1,2020Q1,1623447.5170242928
+national,,,total,Employed,Female,2020,Q2,2020Q2,1390774.2463264465
+national,,,total,Employed,Female,2020,Q3,2020Q3,1553810.0623817444
+national,,,total,Employed,Female,2020,Q4,2020Q4,1522334.603822009
+national,,,total,Employed,Female,2021,Q1,2021Q1,1456886.0406684875
+national,,,total,Employed,Female,2021,Q2,2021Q2,1357145.5234127045
+national,,,total,Employed,Female,2021,Q3,2021Q3,1366065.7982635498
+national,,,total,Employed,Female,2021,Q4,2021Q4,1630832.4650280476
+national,,,total,Employed,Female,2022,Q1,2022Q1,1636531.8683738708
+national,,,total,Employed,Female,2022,Q2,2022Q2,1441571.5956230164
+national,,,total,Employed,Female,2022,Q3,2022Q3,1615872.5794905603
+national,,,total,Employed,Female,2022,Q4,2022Q4,1580616.2429542257
+national,,,total,Employed,Female,2023,Q1,2023Q1,1744139.0166358948
+national,,,total,Employed,Female,2023,Q2,2023Q2,1808989.4914073944
+national,,,total,Employed,Female,2023,Q3,2023Q3,1723553.2534599304
+national,,,total,Employed,Female,2023,Q4,2023Q4,1851748.989063263
+national,,,total,Employed,Female,2024,Q1,2024Q1,2019316.0810089111
+national,,,total,Employed,Female,2024,Q2,2024Q2,1956644.9277191162
+national,,,total,Employed,Female,2024,Q3,2024Q3,2004068.1774139404
+national,,,total,Employed,Female,2024,Q4,2024Q4,2096061.6178894043
+national,,,total,Employed,Female,2025,Q1,2025Q1,2227703.0525665283
+national,,,total,Employed,Female,2025,Q2,2025Q2,2110911.827987671
+national,,,total,Employed,Female,2025,Q3,2025Q3,2222577.5753936768
+national,,,total,Employed,Female,2025,Q4,2025Q4,2301852.4548797607
+national,,,total,Employed,Female,2026,Q1,2026Q1,2336683.116783142
+national,,,total,Employed,Female,2026,Q2,2026Q2,2157004.47265625
+national,,,total,Unemployed,Female,2019,Q1,2019Q1,255988.63355866977
+national,,,total,Unemployed,Female,2019,Q2,2019Q2,295766.6379189668
+national,,,total,Unemployed,Female,2019,Q3,2019Q3,301851.4152150112
+national,,,total,Unemployed,Female,2019,Q4,2019Q4,310756.5933500004
+national,,,total,Unemployed,Female,2020,Q1,2020Q1,264223.23351036705
+national,,,total,Unemployed,Female,2020,Q2,2020Q2,463294.35285949707
+national,,,total,Unemployed,Female,2020,Q3,2020Q3,380758.99672317505
+national,,,total,Unemployed,Female,2020,Q4,2020Q4,438752.9274570005
+national,,,total,Unemployed,Female,2021,Q1,2021Q1,328982.8492240906
+national,,,total,Unemployed,Female,2021,Q2,2021Q2,516916.6686115265
+national,,,total,Unemployed,Female,2021,Q3,2021Q3,389175.1536102295
+national,,,total,Unemployed,Female,2021,Q4,2021Q4,612505.7332859039
+national,,,total,Unemployed,Female,2022,Q1,2022Q1,363384.34868240356
+national,,,total,Unemployed,Female,2022,Q2,2022Q2,523117.6852493286
+national,,,total,Unemployed,Female,2022,Q3,2022Q3,439311.95741535083
+national,,,total,Unemployed,Female,2022,Q4,2022Q4,622985.8943154125
+national,,,total,Unemployed,Female,2023,Q1,2023Q1,415113.45548057556
+national,,,total,Unemployed,Female,2023,Q2,2023Q2,454883.8758544922
+national,,,total,Unemployed,Female,2023,Q3,2023Q3,483289.4829826355
+national,,,total,Unemployed,Female,2023,Q4,2023Q4,466051.967376709
+national,,,total,Unemployed,Female,2024,Q1,2024Q1,341357.0222167969
+national,,,total,Unemployed,Female,2024,Q2,2024Q2,484385.6374206543
+national,,,total,Unemployed,Female,2024,Q3,2024Q3,456344.69367980957
+national,,,total,Unemployed,Female,2024,Q4,2024Q4,443254.22552490234
+national,,,total,Unemployed,Female,2025,Q1,2025Q1,318826.19288635254
+national,,,total,Unemployed,Female,2025,Q2,2025Q2,380559.3053588867
+national,,,total,Unemployed,Female,2025,Q3,2025Q3,418779.38872528076
+national,,,total,Unemployed,Female,2025,Q4,2025Q4,343263.6316986084
+national,,,total,Unemployed,Female,2026,Q1,2026Q1,343182.3992767334
+national,,,total,Unemployed,Female,2026,Q2,2026Q2,395664.9071044922
+national,,,total,out of labour force,Female,2019,Q1,2019Q1,2101980.493751592
+national,,,total,out of labour force,Female,2019,Q2,2019Q2,2065413.8907358132
+national,,,total,out of labour force,Female,2019,Q3,2019Q3,2139318.0563401114
+national,,,total,out of labour force,Female,2019,Q4,2019Q4,2064942.52729
+national,,,total,out of labour force,Female,2020,Q1,2020Q1,2026130.4478803729
+national,,,total,out of labour force,Female,2020,Q2,2020Q2,2090307.823436737
+national,,,total,out of labour force,Female,2020,Q3,2020Q3,2040621.5720214844
+national,,,total,out of labour force,Female,2020,Q4,2020Q4,2045157.9230710198
+national,,,total,out of labour force,Female,2021,Q1,2021Q1,2251537.989265442
+national,,,total,out of labour force,Female,2021,Q2,2021Q2,2194834.120235443
+national,,,total,out of labour force,Female,2021,Q3,2021Q3,2345390.4244003296
+national,,,total,out of labour force,Female,2021,Q4,2021Q4,1889275.7979998589
+national,,,total,out of labour force,Female,2022,Q1,2022Q1,2163744.8618659973
+national,,,total,out of labour force,Female,2022,Q2,2022Q2,2230998.384929657
+national,,,total,out of labour force,Female,2022,Q3,2022Q3,2172775.9552977546
+national,,,total,out of labour force,Female,2022,Q4,2022Q4,2047959.473062889
+national,,,total,out of labour force,Female,2023,Q1,2023Q1,2080852.8985652924
+national,,,total,out of labour force,Female,2023,Q2,2023Q2,2016825.6370334625
+national,,,total,out of labour force,Female,2023,Q3,2023Q3,2095028.8960838318
+national,,,total,out of labour force,Female,2023,Q4,2023Q4,2015290.2060165405
+national,,,total,out of labour force,Female,2024,Q1,2024Q1,1998159.231338501
+national,,,total,out of labour force,Female,2024,Q2,2024Q2,1947281.8616638184
+national,,,total,out of labour force,Female,2024,Q3,2024Q3,1957579.1188049316
+national,,,total,out of labour force,Female,2024,Q4,2024Q4,1908556.193359375
+national,,,total,out of labour force,Female,2025,Q1,2025Q1,1930166.472229004
+national,,,total,out of labour force,Female,2025,Q2,2025Q2,2015684.10887146
+national,,,total,out of labour force,Female,2025,Q3,2025Q3,1895983.7850341797
+national,,,total,out of labour force,Female,2025,Q4,2025Q4,1922612.10887146
+national,,,total,out of labour force,Female,2026,Q1,2026Q1,1918453.8404922485
+national,,,total,out of labour force,Female,2026,Q2,2026Q2,2073279.8471069336
+national,,,total,Time related underemployed,Female,2019,Q1,2019Q1,472643.820313022
+national,,,total,Time related underemployed,Female,2019,Q2,2019Q2,433158.4878965296
+national,,,total,Time related underemployed,Female,2019,Q3,2019Q3,410307.293041465
+national,,,total,Time related underemployed,Female,2019,Q4,2019Q4,465448.9861400014
+national,,,total,Time related underemployed,Female,2020,Q1,2020Q1,592762.8638576193
+national,,,total,Time related underemployed,Female,2020,Q3,2020Q3,503426.2191390991
+national,,,total,Time related underemployed,Female,2020,Q4,2020Q4,538485.9246259999
+national,,,total,Time related underemployed,Female,2021,Q1,2021Q1,490986.33626556396
+national,,,total,Time related underemployed,Female,2021,Q2,2021Q2,474867.0042896271
+national,,,total,Time related underemployed,Female,2021,Q3,2021Q3,449693.82151794434
+national,,,total,Time related underemployed,Female,2021,Q4,2021Q4,566406.8603363037
+national,,,total,Time related underemployed,Female,2022,Q1,2022Q1,513503.62421417236
+national,,,total,Time related underemployed,Female,2022,Q2,2022Q2,515319.98134994507
+national,,,total,Time related underemployed,Female,2022,Q3,2022Q3,585880.9039000145
+national,,,total,Time related underemployed,Female,2022,Q4,2022Q4,542540.8067816356
+national,,,total,Time related underemployed,Female,2023,Q1,2023Q1,546324.7499446869
+national,,,total,Time related underemployed,Female,2023,Q2,2023Q2,553470.8643455505
+national,,,total,Time related underemployed,Female,2023,Q3,2023Q3,567040.2485313416
+national,,,total,Time related underemployed,Female,2023,Q4,2023Q4,614167.6545524597
+national,,,total,Time related underemployed,Female,2024,Q1,2024Q1,626691.2964477539
+national,,,total,Time related underemployed,Female,2024,Q2,2024Q2,696340.0096282959
+national,,,total,Time related underemployed,Female,2024,Q3,2024Q3,796446.1756744385
+national,,,total,Time related underemployed,Female,2024,Q4,2024Q4,811672.9713745117
+national,,,total,Time related underemployed,Female,2025,Q1,2025Q1,857890.5089569092
+national,,,total,Time related underemployed,Female,2025,Q2,2025Q2,877318.2705688477
+national,,,total,Time related underemployed,Female,2025,Q3,2025Q3,903281.6730957031
+national,,,total,Time related underemployed,Female,2025,Q4,2025Q4,973397.3783569336
+national,,,total,Time related underemployed,Female,2026,Q1,2026Q1,969490.0291824341
+national,,,total,Time related underemployed,Female,2026,Q2,2026Q2,931014.8267822266
+national,,,total,Potential labour force,Female,2019,Q1,2019Q1,979682.9353422731
+national,,,total,Potential labour force,Female,2019,Q2,2019Q2,970317.0837507314
+national,,,total,Potential labour force,Female,2019,Q3,2019Q3,1040034.4086021878
+national,,,total,Potential labour force,Female,2019,Q4,2019Q4,982221.5164099995
+national,,,total,Potential labour force,Female,2020,Q1,2020Q1,950799.9145959142
+national,,,total,Potential labour force,Female,2020,Q3,2020Q3,1089030.084968567
+national,,,total,Potential labour force,Female,2020,Q4,2020Q4,927637.5370509997
+national,,,total,Potential labour force,Female,2021,Q1,2021Q1,885795.2526359558
+national,,,total,Potential labour force,Female,2021,Q2,2021Q2,813016.4342079163
+national,,,total,Potential labour force,Female,2021,Q3,2021Q3,1016659.9416542053
+national,,,total,Potential labour force,Female,2021,Q4,2021Q4,680527.8105289936
+national,,,total,Potential labour force,Female,2022,Q1,2022Q1,728320.4549980164
+national,,,total,Potential labour force,Female,2022,Q2,2022Q2,838738.1072883606
+national,,,total,Potential labour force,Female,2022,Q3,2022Q3,860656.427050762
+national,,,total,Potential labour force,Female,2022,Q4,2022Q4,783849.3299348777
+national,,,total,Potential labour force,Female,2023,Q1,2023Q1,863541.1221694946
+national,,,total,Potential labour force,Female,2023,Q2,2023Q2,785346.108953476
+national,,,total,Potential labour force,Female,2023,Q3,2023Q3,967954.1851043701
+national,,,total,Potential labour force,Female,2023,Q4,2023Q4,826683.5392456055
+national,,,total,Potential labour force,Female,2024,Q1,2024Q1,782092.3065795898
+national,,,total,Potential labour force,Female,2024,Q2,2024Q2,801018.0024261475
+national,,,total,Potential labour force,Female,2024,Q3,2024Q3,1052107.2164916992
+national,,,total,Potential labour force,Female,2024,Q4,2024Q4,840560.2618255615
+national,,,total,Potential labour force,Female,2025,Q1,2025Q1,858866.6479187012
+national,,,total,Potential labour force,Female,2025,Q2,2025Q2,963482.9641571045
+national,,,total,Potential labour force,Female,2025,Q3,2025Q3,1096165.1372070312
+national,,,total,Potential labour force,Female,2025,Q4,2025Q4,985657.2909698486
+national,,,total,Potential labour force,Female,2026,Q1,2026Q1,943980.30884552
+national,,,total,Potential labour force,Female,2026,Q2,2026Q2,1063366.4042816162
+national,,,total,Labour force participation rate(%),Female,2019,Q1,2019Q1,44.175798104891584
+national,,,total,Labour force participation rate(%),Female,2019,Q2,2019Q2,45.33378630763069
+national,,,total,Labour force participation rate(%),Female,2019,Q3,2019Q3,43.73080780579296
+national,,,total,Labour force participation rate(%),Female,2019,Q4,2019Q4,46.820127529217935
+national,,,total,Labour force participation rate(%),Female,2020,Q1,2020Q1,48.23113527838645
+national,,,total,Labour force participation rate(%),Female,2020,Q2,2020Q2,47.00536664178575
+national,,,total,Labour force participation rate(%),Female,2020,Q3,2020Q3,48.66607009880034
+national,,,total,Labour force participation rate(%),Female,2020,Q4,2020Q4,48.95075835030632
+national,,,total,Labour force participation rate(%),Female,2021,Q1,2021Q1,44.23306699930654
+national,,,total,Labour force participation rate(%),Female,2021,Q2,2021Q2,46.05824401024033
+national,,,total,Labour force participation rate(%),Female,2021,Q3,2021Q3,42.804163330297094
+national,,,total,Labour force participation rate(%),Female,2021,Q4,2021Q4,54.28375842299701
+national,,,total,Labour force participation rate(%),Female,2022,Q1,2022Q1,48.03263712266263
+national,,,total,Labour force participation rate(%),Female,2022,Q2,2022Q2,46.826395036170936
+national,,,total,Labour force participation rate(%),Female,2022,Q3,2022Q3,48.60936001402244
+national,,,total,Labour force participation rate(%),Female,2022,Q4,2022Q4,51.83041760265803
+national,,,total,Labour force participation rate(%),Female,2023,Q1,2023Q1,50.92450029771987
+national,,,total,Labour force participation rate(%),Female,2023,Q2,2023Q2,52.88560034214658
+national,,,total,Labour force participation rate(%),Female,2023,Q3,2023Q3,51.29959526817712
+national,,,total,Labour force participation rate(%),Female,2023,Q4,2023Q4,53.49070373875924
+national,,,total,Labour force participation rate(%),Female,2024,Q1,2024Q1,54.158382842723526
+national,,,total,Labour force participation rate(%),Female,2024,Q2,2024Q2,55.625724144663906
+national,,,total,Labour force participation rate(%),Female,2024,Q3,2024Q3,55.69074993162618
+national,,,total,Labour force participation rate(%),Female,2024,Q4,2024Q4,57.0905777508885
+national,,,total,Labour force participation rate(%),Female,2025,Q1,2025Q1,56.884126285257565
+national,,,total,Labour force participation rate(%),Female,2025,Q2,2025Q2,55.27812998339234
+national,,,total,Labour force participation rate(%),Female,2025,Q3,2025Q3,58.21376683274114
+national,,,total,Labour force participation rate(%),Female,2025,Q4,2025Q4,57.90878908279433
+national,,,total,Labour force participation rate(%),Female,2026,Q1,2026Q1,58.279238744941615
+national,,,total,Labour force participation rate(%),Female,2026,Q2,2026Q2,55.18152609489851
+national,,,total,Employment-to-population ratio(%),Female,2019,Q1,2019Q1,37.377275851658496
+national,,,total,Employment-to-population ratio(%),Female,2019,Q2,2019Q2,37.505601214040674
+national,,,total,Employment-to-population ratio(%),Female,2019,Q3,2019Q3,35.79139213709888
+national,,,total,Employment-to-population ratio(%),Female,2019,Q4,2019Q4,38.81700115383345
+national,,,total,Employment-to-population ratio(%),Female,2020,Q1,2020Q1,41.480071028690546
+national,,,total,Employment-to-population ratio(%),Female,2020,Q2,2020Q2,35.25967345179743
+national,,,total,Employment-to-population ratio(%),Female,2020,Q3,2020Q3,39.0876867694131
+national,,,total,Employment-to-population ratio(%),Female,2020,Q4,2020Q4,37.99903478627457
+national,,,total,Employment-to-population ratio(%),Female,2021,Q1,2021Q1,36.084697041292834
+national,,,total,Employment-to-population ratio(%),Female,2021,Q2,2021Q2,33.35414371026352
+national,,,total,Employment-to-population ratio(%),Female,2021,Q3,2021Q3,33.3135479128284
+national,,,total,Employment-to-population ratio(%),Female,2021,Q4,2021Q4,39.46249193567824
+national,,,total,Employment-to-population ratio(%),Female,2022,Q1,2022Q1,39.30511723585036
+national,,,total,Employment-to-population ratio(%),Female,2022,Q2,2022Q2,34.35841059793142
+national,,,total,Employment-to-population ratio(%),Female,2022,Q3,2022Q3,38.21872466571586
+national,,,total,Employment-to-population ratio(%),Female,2022,Q4,2022Q4,37.17731007620522
+national,,,total,Employment-to-population ratio(%),Female,2023,Q1,2023Q1,41.1343319129698
+national,,,total,Employment-to-population ratio(%),Female,2023,Q2,2023Q2,42.25920789086581
+national,,,total,Employment-to-population ratio(%),Female,2023,Q3,2023Q3,40.06519488931668
+national,,,total,Employment-to-population ratio(%),Female,2023,Q4,2023Q4,42.73505725214124
+national,,,total,Employment-to-population ratio(%),Female,2024,Q1,2024Q1,46.32699599377456
+national,,,total,Employment-to-population ratio(%),Female,2024,Q2,2024Q2,44.58763956203366
+national,,,total,Employment-to-population ratio(%),Female,2024,Q3,2024Q3,45.36151677042538
+national,,,total,Employment-to-population ratio(%),Female,2024,Q4,2024Q4,47.125043179295425
+national,,,total,Employment-to-population ratio(%),Female,2025,Q1,2025Q1,49.762217337390844
+national,,,total,Employment-to-population ratio(%),Female,2025,Q2,2025Q2,46.83468206763762
+national,,,total,Employment-to-population ratio(%),Female,2025,Q3,2025Q3,48.984145081202136
+national,,,total,Employment-to-population ratio(%),Female,2025,Q4,2025Q4,50.39381408842946
+national,,,total,Employment-to-population ratio(%),Female,2026,Q1,2026Q1,50.81602506475791
+national,,,total,Employment-to-population ratio(%),Female,2026,Q2,2026Q2,46.62836462035278
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2019,Q1,2019Q1,55.824201895108416
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2019,Q2,2019Q2,54.66621369236932
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2019,Q3,2019Q3,56.26919219420704
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2019,Q4,2019Q4,53.17987247078207
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2020,Q1,2020Q1,51.76886472161354
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2020,Q2,2020Q2,52.99463335821425
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2020,Q3,2020Q3,51.33392990119966
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2020,Q4,2020Q4,51.049241649693684
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2021,Q1,2021Q1,55.76693300069346
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2021,Q2,2021Q2,53.94175598975967
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2021,Q3,2021Q3,57.195836669702906
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2021,Q4,2021Q4,45.71624157700299
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2022,Q1,2022Q1,51.96736287733737
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2022,Q2,2022Q2,53.173604963829064
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2022,Q3,2022Q3,51.39063998597754
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2022,Q4,2022Q4,48.16958239734197
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2023,Q1,2023Q1,49.07549970228013
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2023,Q2,2023Q2,47.11439965785342
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2023,Q3,2023Q3,48.70040473182288
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2023,Q4,2023Q4,46.50929626124076
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2024,Q1,2024Q1,45.841617157276474
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2024,Q2,2024Q2,44.374275855336094
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2024,Q3,2024Q3,44.30925006837382
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2024,Q4,2024Q4,42.9094222491115
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2025,Q1,2025Q1,43.115873714742435
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2025,Q2,2025Q2,44.72187001660766
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2025,Q3,2025Q3,41.78623316725886
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2025,Q4,2025Q4,42.09121091720567
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2026,Q1,2026Q1,41.720761255058385
+national,,,total,Out of labour force (Inactivity rate(%)),Female,2026,Q2,2026Q2,44.81847390510149
+national,,,total,Time related underemployment rate(%),Female,2019,Q1,2019Q1,33.58305336323014
+national,,,total,Time related underemployment rate(%),Female,2019,Q2,2019Q2,30.567688469269374
+national,,,total,Time related underemployment rate(%),Female,2019,Q3,2019Q3,30.152683502343823
+national,,,total,Time related underemployment rate(%),Female,2019,Q4,2019Q4,30.88086316940274
+national,,,total,Time related underemployment rate(%),Female,2020,Q1,2020Q1,36.51259789069907
+national,,,total,Time related underemployment rate(%),Female,2020,Q2,2020Q2,0.0
+national,,,total,Time related underemployment rate(%),Female,2020,Q3,2020Q3,32.39946962162329
+national,,,total,Time related underemployment rate(%),Female,2020,Q4,2020Q4,35.3723763011146
+national,,,total,Time related underemployment rate(%),Female,2021,Q1,2021Q1,33.7010804249505
+national,,,total,Time related underemployment rate(%),Female,2021,Q2,2021Q2,34.99013157376943
+national,,,total,Time related underemployment rate(%),Female,2021,Q3,2021Q3,32.918899081549704
+national,,,total,Time related underemployment rate(%),Female,2021,Q4,2021Q4,34.73114942720756
+national,,,total,Time related underemployment rate(%),Female,2022,Q1,2022Q1,31.37755115788927
+national,,,total,Time related underemployment rate(%),Female,2022,Q2,2022Q2,35.7470959413039
+national,,,total,Time related underemployment rate(%),Female,2022,Q3,2022Q3,36.25786533766949
+national,,,total,Time related underemployment rate(%),Female,2022,Q4,2022Q4,34.32463820361665
+national,,,total,Time related underemployment rate(%),Female,2023,Q1,2023Q1,31.32346359629298
+national,,,total,Time related underemployment rate(%),Female,2023,Q2,2023Q2,30.59558206249999
+national,,,total,Time related underemployment rate(%),Female,2023,Q3,2023Q3,32.89949105970715
+national,,,total,Time related underemployment rate(%),Female,2023,Q4,2023Q4,33.16689563109449
+national,,,total,Time related underemployment rate(%),Female,2024,Q1,2024Q1,31.034829185069434
+national,,,total,Time related underemployment rate(%),Female,2024,Q2,2024Q2,35.58847084432573
+national,,,total,Time related underemployment rate(%),Female,2024,Q3,2024Q3,39.74147110614653
+national,,,total,Time related underemployment rate(%),Female,2024,Q4,2024Q4,38.723717110559605
+national,,,total,Time related underemployment rate(%),Female,2025,Q1,2025Q1,38.510092625161
+national,,,total,Time related underemployment rate(%),Female,2025,Q2,2025Q2,41.56110449223234
+national,,,total,Time related underemployment rate(%),Female,2025,Q3,2025Q3,40.64117640238984
+national,,,total,Time related underemployment rate(%),Female,2025,Q4,2025Q4,42.28756609892183
+national,,,total,Time related underemployment rate(%),Female,2026,Q1,2026Q1,41.49000873156942
+national,,,total,Time related underemployment rate(%),Female,2026,Q2,2026Q2,43.16239667485369
+national,,,total,LU1-Unemployment rate (%),Female,2019,Q1,2019Q1,15.389698760145949
+national,,,total,LU1-Unemployment rate (%),Female,2019,Q2,2019Q2,17.26788281143936
+national,,,total,LU1-Unemployment rate (%),Female,2019,Q3,2019Q3,18.155200114191263
+national,,,total,LU1-Unemployment rate (%),Female,2019,Q4,2019Q4,17.093345955519144
+national,,,total,LU1-Unemployment rate (%),Female,2020,Q1,2020Q1,13.997315656638145
+national,,,total,LU1-Unemployment rate (%),Female,2020,Q2,2020Q2,24.987983349856275
+national,,,total,LU1-Unemployment rate (%),Female,2020,Q3,2020Q3,19.68185084585936
+national,,,total,LU1-Unemployment rate (%),Female,2020,Q4,2020Q4,22.372939527632923
+national,,,total,LU1-Unemployment rate (%),Female,2021,Q1,2021Q1,18.42144465845302
+national,,,total,LU1-Unemployment rate (%),Female,2021,Q2,2021Q2,27.582684865606794
+national,,,total,LU1-Unemployment rate (%),Female,2021,Q3,2021Q3,22.17217830946639
+national,,,total,LU1-Unemployment rate (%),Female,2021,Q4,2021Q4,27.30331671552025
+national,,,total,LU1-Unemployment rate (%),Female,2022,Q1,2022Q1,18.169978601267502
+national,,,total,LU1-Unemployment rate (%),Female,2022,Q2,2022Q2,26.625975432464223
+national,,,total,LU1-Unemployment rate (%),Female,2022,Q3,2022Q3,21.375791298855155
+national,,,total,LU1-Unemployment rate (%),Female,2022,Q4,2022Q4,28.27125113825312
+national,,,total,LU1-Unemployment rate (%),Female,2023,Q1,2023Q1,19.224868830354374
+national,,,total,LU1-Unemployment rate (%),Female,2023,Q2,2023Q2,20.09316786144562
+national,,,total,LU1-Unemployment rate (%),Female,2023,Q3,2023Q3,21.899588720204818
+national,,,total,LU1-Unemployment rate (%),Female,2023,Q4,2023Q4,20.10750604282008
+national,,,total,LU1-Unemployment rate (%),Female,2024,Q1,2024Q1,14.460156374482958
+national,,,total,LU1-Unemployment rate (%),Female,2024,Q2,2024Q2,19.84348923516732
+national,,,total,LU1-Unemployment rate (%),Female,2024,Q3,2024Q3,18.54748440967741
+national,,,total,LU1-Unemployment rate (%),Female,2024,Q4,2024Q4,17.455655493761373
+national,,,total,LU1-Unemployment rate (%),Female,2025,Q1,2025Q1,12.52002871970362
+national,,,total,LU1-Unemployment rate (%),Female,2025,Q2,2025Q2,15.274481821818958
+national,,,total,LU1-Unemployment rate (%),Female,2025,Q3,2025Q3,15.854706289763733
+national,,,total,LU1-Unemployment rate (%),Female,2025,Q4,2025Q4,12.977261506229103
+national,,,total,LU1-Unemployment rate (%),Female,2026,Q1,2026Q1,12.805956016080389
+national,,,total,LU1-Unemployment rate (%),Female,2026,Q2,2026Q2,15.500045177866992
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2019,Q1,2019Q1,43.80442137631591
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2019,Q2,2019Q2,42.55717865766944
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2019,Q3,2019Q3,42.833603586885836
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2019,Q4,2019Q4,42.69563634932538
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2020,Q1,2020Q1,45.39912996613707
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2020,Q2,2020Q2,0.0
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2020,Q3,2020Q3,45.70450518170524
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2020,Q4,2020Q4,49.83147546941239
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2021,Q1,2021Q1,45.914299203620516
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2021,Q2,2021Q2,52.92159871332222
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2021,Q3,2021Q3,47.7922403891416
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2021,Q4,2021Q4,52.55171041567674
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2022,Q1,2022Q1,43.84623542816652
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2022,Q2,2022Q2,52.85505839061713
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2022,Q3,2022Q3,49.883251012524475
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2022,Q4,2022Q4,52.891884673028535
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2023,Q1,2023Q1,44.526437637136226
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2023,Q2,2023Q2,44.54112826194114
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2023,Q3,2023Q3,47.59422654679555
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2023,Q4,2023Q4,46.605366130676416
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2024,Q1,2024Q1,41.00730072883768
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2024,Q2,2024Q2,48.369965698538614
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2024,Q3,2024Q3,50.91791235823496
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2024,Q4,2024Q4,49.419893951122965
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2025,Q1,2025Q1,46.20864668821
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2025,Q2,2025Q2,50.48734296343809
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2025,Q3,2025Q3,50.0523435408499
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2025,Q4,2025Q4,49.77705956787436
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2026,Q1,2026Q1,48.98277247841712
+national,,,total,LU2-Combined rate of unemployment and time-related underemployment(%),Female,2026,Q2,2026Q2,51.9722508682682
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2019,Q1,2019Q1,46.75156182477982
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2019,Q2,2019Q2,47.18680865250957
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2019,Q3,2019Q3,49.650720653505836
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2019,Q4,2019Q4,46.17417873105506
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2020,Q1,2020Q1,42.80555592954801
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2020,Q2,2020Q2,24.987983349856275
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2020,Q3,2020Q3,48.61058002918987
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2020,Q4,2020Q4,47.30081375649652
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2021,Q1,2021Q1,45.468967544339165
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2021,Q2,2021Q2,49.49364301573454
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2021,Q3,2021Q3,50.71736505972744
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2021,Q4,2021Q4,44.22341994825497
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2022,Q1,2022Q1,40.015032964804874
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2022,Q2,2022Q2,48.57824384141392
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2022,Q3,2022Q3,44.582965961974516
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2022,Q4,2022Q4,47.091483818035904
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2023,Q1,2023Q1,42.3004263363245
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2023,Q2,2023Q2,40.67368697078243
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2023,Q3,2023Q3,45.71138576573521
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2023,Q4,2023Q4,41.11120625323564
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2024,Q1,2024Q1,35.74715838768211
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2024,Q2,2024Q2,39.647883523591496
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2024,Q3,2024Q3,42.94500451407917
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2024,Q4,2024Q4,37.984069456278256
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2025,Q1,2025Q1,34.583140336116834
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2025,Q2,2025Q2,38.90188499138422
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2025,Q3,2025Q3,40.53339311076833
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2025,Q4,2025Q4,36.601593778509205
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2026,Q1,2026Q1,35.519245859634665
+national,,,total,LU3-Combined rate of unemployment and potential labour force(%),Female,2026,Q2,2026Q2,40.34891794558129
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2019,Q1,2019Q1,64.63401323225062
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2019,Q2,2019Q2,63.330580454289574
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2019,Q3,2019Q3,64.8323795005652
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2019,Q4,2019Q4,62.796056946925226
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2020,Q1,2020Q1,63.68873330881292
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2020,Q3,2020Q3,65.26047954136091
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2020,Q4,2020Q4,65.94176822217378
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2021,Q1,2021Q1,63.84651464877728
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2021,Q2,2021Q2,67.16588377764671
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2021,Q3,2021Q3,66.94066592044432
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2021,Q4,2021Q4,63.595267311412584
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2022,Q1,2022Q1,58.83684668331624
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2022,Q2,2022Q2,66.96002835012703
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2022,Q3,2022Q3,64.67599953761226
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2022,Q4,2022Q4,65.25214057639705
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2023,Q1,2023Q1,60.37393128808215
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2023,Q2,2023Q2,58.824917758292315
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2023,Q3,2023Q3,63.572063552176054
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2023,Q4,2023Q4,60.642791013635474
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2024,Q1,2024Q1,55.687918028618185
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2024,Q2,2024Q2,61.126278899731645
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2024,Q3,2024Q3,65.6194990597296
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2024,Q4,2024Q4,61.998942963510196
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2025,Q1,2025Q1,59.77523358514983
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2025,Q2,2025Q2,64.29493641289932
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2025,Q3,2025Q3,64.70132171713668
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2025,Q4,2025Q4,63.411236715085096
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2026,Q1,2026Q1,62.272316382654054
+national,,,total,LU4 - Composite measure of labour underutilization(%),Female,2026,Q2,2026Q2,66.09575460275195
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2019,Q1,2019Q1,42.035891528686236
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2019,Q2,2019Q2,39.02359898690727
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2019,Q3,2019Q3,43.542182439528986
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2019,Q4,2019Q4,41.50147202839437
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2020,Q1,2020Q1,39.433966775040496
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2020,Q3,2020Q3,40.24743200336888
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2020,Q4,2020Q4,40.37966879887401
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2021,Q1,2021Q1,40.10935056823366
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2021,Q2,2021Q2,42.70837130085835
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2021,Q3,2021Q3,43.475365897408274
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2021,Q4,2021Q4,37.902113840069845
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2022,Q1,2022Q1,35.34670540243251
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2022,Q2,2022Q2,41.39655569845124
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2022,Q3,2022Q3,37.61488979026352
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2022,Q4,2022Q4,41.89303700370426
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2023,Q1,2023Q1,38.6844954465108
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2023,Q2,2023Q2,39.55830987737517
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2023,Q3,2023Q3,41.065783138540496
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2023,Q4,2023Q4,38.367582749267854
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2024,Q1,2024Q1,34.404241316034486
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2024,Q2,2024Q2,36.06612896132319
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2024,Q3,2024Q3,36.220378246246455
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2024,Q4,2024Q4,34.136721858395376
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2025,Q1,2025Q1,28.714056375363246
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2025,Q2,2025Q2,30.65342748966055
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2025,Q3,2025Q3,32.40919069533337
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2025,Q4,2025Q4,30.201755565268023
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2026,Q1,2026Q1,27.905679383281168
+national,,,total,NEET rate-Youth not in employment nor currently in education or training(%),Female,2026,Q2,2026Q2,31.10165853004196
+national,,,total,Median monthly earnings at main job,Female,2019,Q1,2019Q1,18200.0
+national,,,total,Median monthly earnings at main job,Female,2019,Q2,2019Q2,18200.0
+national,,,total,Median monthly earnings at main job,Female,2019,Q3,2019Q3,18200.0
+national,,,total,Median monthly earnings at main job,Female,2019,Q4,2019Q4,18200.0
+national,,,total,Median monthly earnings at main job,Female,2020,Q1,2020Q1,20800.0
+national,,,total,Median monthly earnings at main job,Female,2020,Q3,2020Q3,20000.0
+national,,,total,Median monthly earnings at main job,Female,2020,Q4,2020Q4,20800.0
+national,,,total,Median monthly earnings at main job,Female,2021,Q1,2021Q1,20800.0
+national,,,total,Median monthly earnings at main job,Female,2021,Q2,2021Q2,20800.0
+national,,,total,Median monthly earnings at main job,Female,2021,Q3,2021Q3,20800.0
+national,,,total,Median monthly earnings at main job,Female,2021,Q4,2021Q4,20800.0
+national,,,total,Median monthly earnings at main job,Female,2022,Q1,2022Q1,20800.0
+national,,,total,Median monthly earnings at main job,Female,2022,Q2,2022Q2,20800.0
+national,,,total,Median monthly earnings at main job,Female,2022,Q3,2022Q3,20800.0
+national,,,total,Median monthly earnings at main job,Female,2022,Q4,2022Q4,25000.0
+national,,,total,Median monthly earnings at main job,Female,2023,Q1,2023Q1,26000.0
+national,,,total,Median monthly earnings at main job,Female,2023,Q2,2023Q2,26000.0
+national,,,total,Median monthly earnings at main job,Female,2023,Q3,2023Q3,26000.0
+national,,,total,Median monthly earnings at main job,Female,2023,Q4,2023Q4,26000.0
+national,,,total,Median monthly earnings at main job,Female,2024,Q1,2024Q1,30000.0
+national,,,total,Median monthly earnings at main job,Female,2024,Q2,2024Q2,26000.0
+national,,,total,Median monthly earnings at main job,Female,2024,Q3,2024Q3,26000.0
+national,,,total,Median monthly earnings at main job,Female,2024,Q4,2024Q4,26000.0
+national,,,total,Median monthly earnings at main job,Female,2025,Q1,2025Q1,30000.0
+national,,,total,Median monthly earnings at main job,Female,2025,Q2,2025Q2,26000.0
+national,,,total,Median monthly earnings at main job,Female,2025,Q3,2025Q3,31200.0
+national,,,total,Median monthly earnings at main job,Female,2025,Q4,2025Q4,31200.0
+national,,,total,Median monthly earnings at main job,Female,2026,Q1,2026Q1,39000.0
+national,,,total,Median monthly earnings at main job,Female,2026,Q2,2026Q2,35000.0

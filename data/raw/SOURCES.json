@@ -1,0 +1,42 @@
+[
+  {
+    "key": "census2022",
+    "url": "https://statistics.gov.rw/sites/default/files/documents/2025-02/PHC5-2022_Main_Indicators.xlsx",
+    "filename": "PHC5-2022_Main_Indicators.xlsx",
+    "sha256": "b73aa381fd3145405251b87b15e5a2926b0038e3b2d2d837b92b81b9630d06f9",
+    "downloaded_at": "2026-10-29T21:48:08.381009+00:00",
+    "origin": "downloaded from statistics.gov.rw by pipeline/download.py"
+  },
+  {
+    "key": "eicv7_main",
+    "url": "https://statistics.gov.rw/sites/default/files/documents/2025-04/EICV7_Tables_MainIndicatorReport.xlsx",
+    "filename": "EICV7_Tables_MainIndicatorReport.xlsx",
+    "sha256": "8a01ec05d851d9813a855e513eb0e74046a070ca0235df9e81730560028e350d",
+    "downloaded_at": "2026-10-29T21:48:08.667837+00:00",
+    "origin": "downloaded from statistics.gov.rw by pipeline/download.py"
+  },
+  {
+    "key": "eicv7_util",
+    "url": "https://statistics.gov.rw/sites/default/files/documents/2025-06/Tables_EICV7_Utilities_Amenities_Thematic_Report.xlsx",
+    "filename": "Tables_EICV7_Utilities_Amenities_Thematic_Report.xlsx",
+    "sha256": "293c1af231330c14b1cf48ee239bb941fd0123e70d8b2cdaaae37ef7a628b952",
+    "downloaded_at": "2026-10-29T21:48:08.745083+00:00",
+    "origin": "downloaded from statistics.gov.rw by pipeline/download.py"
+  },
+  {
+    "key": "eicv7_poverty",
+    "url": "https://statistics.gov.rw/sites/default/files/documents/2025-05/EICV7_Tables_Rwanda_Poverty_Profile.xlsx",
+    "filename": "EICV7_Tables_Rwanda_Poverty_Profile.xlsx",
+    "sha256": "7b47093b7cf7315784a7fe61d9aa912feeafbfeb8f2372b012b7d8b63b5ec142",
+    "downloaded_at": "2026-10-29T21:48:08.759257+00:00",
+    "origin": "downloaded from statistics.gov.rw by pipeline/download.py"
+  },
+  {
+    "key": "lfs2026q2",
+    "url": "https://statistics.gov.rw/sites/default/files/documents/2026-07/RW_Quarterly_LFS_Tables_2026Q2.xlsx",
+    "filename": "RW_Quarterly_LFS_Tables_2026Q2.xlsx",
+    "sha256": "982c28b2ca8078402a7ac512ab88563eaf761c6bde336cf479c67ce05f2eb949",
+    "downloaded_at": "2026-10-29T21:48:09.332855+00:00",
+    "origin": "downloaded from statistics.gov.rw by pipeline/download.py"
+  }
+]

@@ -1,0 +1,37 @@
+label,breakdown,geo_level,province,district,area,total_households_counts_total,total_households_counts_urban,total_households_counts_rural,agricultural_households_counts_total,agricultural_households_counts_urban,agricultural_households_counts_rural,agricultural_households_percentage_total,agricultural_households_percentage_urban,agricultural_households_percentage_rural
+Rwanda,,national,,,total,3312743.0,964287.0,2348456.0,2280854.0,330194.0,1950660.0,68.9,34.2,83.1
+City of Kigali,,province,City of Kigali,,total,488868.0,432432.0,56436.0,102733.0,65243.0,37490.0,21.0,15.1,66.4
+Nyarugenge,,district,City of Kigali,Nyarugenge,total,103985.0,91603.0,12382.0,20073.0,12836.0,7237.0,19.3,14.0,58.4
+Gasabo,,district,City of Kigali,Gasabo,total,249420.0,206614.0,42806.0,58735.0,29381.0,29354.0,23.5,14.2,68.6
+Kicukiro,,district,City of Kigali,Kicukiro,total,135463.0,134215.0,1248.0,23925.0,23026.0,899.0,17.7,17.2,72.0
+Southern Province,,province,Southern,,total,760173.0,108719.0,651454.0,618452.0,54280.0,564172.0,81.4,49.9,86.6
+Nyanza,,district,Southern,Nyanza,total,93007.0,9087.0,83920.0,75365.0,4787.0,70578.0,81.0,52.7,84.1
+Gisagara,,district,Southern,Gisagara,total,101145.0,3395.0,97750.0,87353.0,2645.0,84708.0,86.4,77.9,86.7
+Nyaruguru,,district,Southern,Nyaruguru,total,73805.0,1902.0,71903.0,65613.0,1240.0,64373.0,88.9,65.2,89.5
+Huye,,district,Southern,Huye,total,96037.0,17208.0,78829.0,74948.0,7040.0,67908.0,78.0,40.9,86.1
+Nyamagabe,,district,Southern,Nyamagabe,total,92052.0,8888.0,83164.0,79974.0,4678.0,75296.0,86.9,52.6,90.5
+Ruhango,,district,Southern,Ruhango,total,94508.0,10576.0,83932.0,74538.0,6111.0,68427.0,78.9,57.8,81.5
+Muhanga,,district,Southern,Muhanga,total,93241.0,21089.0,72152.0,74147.0,8569.0,65578.0,79.5,40.6,90.9
+Kamonyi,,district,Southern,Kamonyi,total,116378.0,36574.0,79804.0,86514.0,19210.0,67304.0,74.3,52.5,84.3
+Western Province,,province,Western,,total,671506.0,148659.0,522847.0,503360.0,68078.0,435282.0,75.0,45.8,83.3
+Karongi,,district,Western,Karongi,total,91444.0,8794.0,82650.0,76076.0,4827.0,71249.0,83.2,54.9,86.2
+Rutsiro,,district,Western,Rutsiro,total,86802.0,4951.0,81851.0,73034.0,3627.0,69407.0,84.1,73.3,84.8
+Rubavu,,district,Western,Rubavu,total,124080.0,69462.0,54618.0,56974.0,21447.0,35527.0,45.9,30.9,65.0
+Nyabihu,,district,Western,Nyabihu,total,76391.0,18485.0,57906.0,56126.0,9968.0,46158.0,73.5,53.9,79.7
+Ngororero,,district,Western,Ngororero,total,92623.0,4560.0,88063.0,82102.0,3041.0,79061.0,88.6,66.7,89.8
+Rusizi,,district,Western,Rusizi,total,104937.0,35056.0,69881.0,78039.0,20178.0,57861.0,74.4,57.6,82.8
+Nyamasheke,,district,Western,Nyamasheke,total,95229.0,7351.0,87878.0,81009.0,4990.0,76019.0,85.1,67.9,86.5
+Northern Province,,province,Northern,,total,506064.0,88394.0,417670.0,417503.0,47386.0,370117.0,82.5,53.6,88.6
+Rulindo,,district,Northern,Rulindo,total,91909.0,9898.0,82011.0,77125.0,5023.0,72102.0,83.9,50.7,87.9
+Gakenke,,district,Northern,Gakenke,total,93609.0,4009.0,89600.0,86772.0,2930.0,83842.0,92.7,73.1,93.6
+Musanze,,district,Northern,Musanze,total,119387.0,58426.0,60961.0,79190.0,28470.0,50720.0,66.3,48.7,83.2
+Burera,,district,Northern,Burera,total,91786.0,9158.0,82628.0,78077.0,6717.0,71360.0,85.1,73.3,86.4
+Gicumbi,,district,Northern,Gicumbi,total,109373.0,6903.0,102470.0,96339.0,4246.0,92093.0,88.1,61.5,89.9
+Eastern Province,,province,Eastern,,total,886132.0,186083.0,700049.0,638806.0,95207.0,543599.0,72.1,51.2,77.7
+Rwamagana,,district,Eastern,Rwamagana,total,121051.0,41920.0,79131.0,79624.0,18842.0,60782.0,65.8,45.0,76.8
+Nyagatare,,district,Eastern,Nyagatare,total,160435.0,40099.0,120336.0,106284.0,20710.0,85574.0,66.3,51.7,71.1
+Gatsibo,,district,Eastern,Gatsibo,total,136208.0,14325.0,121883.0,106895.0,8268.0,98627.0,78.5,57.7,80.9
+Kayonza,,district,Eastern,Kayonza,total,114186.0,17233.0,96953.0,85078.0,8590.0,76488.0,74.5,49.8,78.9
+Kirehe,,district,Eastern,Kirehe,total,113886.0,7700.0,106186.0,84424.0,4852.0,79572.0,74.1,63.0,74.9
+Ngoma,,district,Eastern,Ngoma,total,102589.0,9196.0,93393.0,85032.0,6070.0,78962.0,82.9,66.0,84.5
+Bugesera,,district,Eastern,Bugesera,total,137777.0,55610.0,82167.0,91469.0,27875.0,63594.0,66.4,50.1,77.4

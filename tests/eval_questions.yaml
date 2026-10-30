@@ -1,0 +1,73 @@
+# Evaluation set: the 12 questions from the project brief (section 8).
+# expect_contains: every string must appear in the answer text or the result table.
+# expect_values: each value must appear in the answer text (rounding allowed, e.g. 13.2 million for 13246394).
+# expect_tables: the answer must cite at least one table whose table_id contains one of these strings.
+- id: 1
+  question: Which district has the highest poverty rate?
+  type: answer
+  expect_contains: ["Nyamagabe"]
+  expect_values: [51.39]
+  expect_tables: ["eicv7_a9_23"]
+- id: 2
+  question: What is the poverty rate in the City of Kigali?
+  type: answer
+  expect_contains: []
+  expect_values: [9.05]
+  expect_tables: ["eicv7_a9_23"]
+- id: 3
+  question: Which 5 districts have the lowest poverty rates?
+  type: answer
+  expect_contains: ["Nyarugenge", "Kicukiro", "Gasabo", "Gicumbi", "Kirehe"]
+  expect_tables: ["eicv7_a9_23"]
+- id: 4
+  question: What was Rwanda's population in the 2022 census?
+  type: answer
+  expect_contains: []
+  expect_values: [13246394]
+  expect_tables: ["census_t1"]
+- id: 5
+  question: What is the population density of Kicukiro?
+  type: answer
+  expect_contains: ["Kicukiro"]
+  expect_values: [2944]
+  expect_tables: ["census_t1"]
+- id: 6
+  question: Compare poverty and electricity access across Western Province districts.
+  type: answer
+  expect_contains: ["Karongi", "Rutsiro", "Rubavu", "Nyabihu", "Ngororero", "Rusizi", "Nyamasheke"]
+  expect_tables: ["eicv7_a9_23"]
+  expect_tables_also: ["eicv7_a5_14", "census_t74", "census_t75", "eicv7_util_b07"]
+- id: 7
+  question: Which districts have poverty above 40% and the lowest internet access at home?
+  type: answer
+  expect_contains: ["Nyamagabe"]
+  expect_tables: ["eicv7_a9_23"]
+  expect_tables_also: ["eicv7_a5_15", "census_t21", "eicv7_util_a37"]
+- id: 8
+  question: How does health insurance coverage in Nyanza compare to the national average?
+  type: answer
+  expect_contains: ["Nyanza"]
+  expect_values: [93.4, 97.3]
+  expect_tables: ["census_t28"]
+- id: 9
+  question: What share of households in Rwanda use electricity for lighting?
+  type: answer
+  expect_contains: []
+  expect_values: [72.0]
+  expect_tables: ["eicv7_util_b07", "eicv7_a5_14"]
+- id: 10
+  question: What is the unemployment rate in Rwanda?
+  type: answer
+  expect_contains: []
+  expect_values: [13.4]
+  expect_tables: ["lfs_2026q2"]
+- id: 11
+  question: What is the HIV prevalence in Musanze?
+  type: refusal
+  expect_contains: ["DHS"]
+  expect_tables: []
+- id: 12
+  question: Who will win the next election?
+  type: refusal
+  expect_contains: []
+  expect_tables: []

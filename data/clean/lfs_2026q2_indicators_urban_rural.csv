@@ -1,0 +1,565 @@
+geo_level,province,district,area,indicator,group,year,quarter,period,value
+national,,,urban,Labour force participation rate(%),Urban,2019,Q1,2019Q1,65.59300584974996
+national,,,urban,Labour force participation rate(%),Urban,2019,Q2,2019Q2,65.76665755782184
+national,,,urban,Labour force participation rate(%),Urban,2019,Q3,2019Q3,67.80231267061735
+national,,,urban,Labour force participation rate(%),Urban,2019,Q4,2019Q4,68.41297939191125
+national,,,urban,Labour force participation rate(%),Urban,2020,Q1,2020Q1,68.7346521872208
+national,,,urban,Labour force participation rate(%),Urban,2020,Q2,2020Q2,62.002617307370066
+national,,,urban,Labour force participation rate(%),Urban,2020,Q3,2020Q3,71.7131404859473
+national,,,urban,Labour force participation rate(%),Urban,2020,Q4,2020Q4,65.57289787972026
+national,,,urban,Labour force participation rate(%),Urban,2021,Q1,2021Q1,59.02388568528453
+national,,,urban,Labour force participation rate(%),Urban,2021,Q2,2021Q2,61.74494756443491
+national,,,urban,Labour force participation rate(%),Urban,2021,Q3,2021Q3,60.24672640384019
+national,,,urban,Labour force participation rate(%),Urban,2021,Q4,2021Q4,68.58731397003866
+national,,,urban,Labour force participation rate(%),Urban,2022,Q1,2022Q1,63.3172690483051
+national,,,urban,Labour force participation rate(%),Urban,2022,Q2,2022Q2,63.522414174261904
+national,,,urban,Labour force participation rate(%),Urban,2022,Q3,2022Q3,67.99606480114764
+national,,,urban,Labour force participation rate(%),Urban,2022,Q4,2022Q4,66.61983440212146
+national,,,urban,Labour force participation rate(%),Urban,2023,Q1,2023Q1,64.76752797980858
+national,,,urban,Labour force participation rate(%),Urban,2023,Q2,2023Q2,67.7279932155899
+national,,,urban,Labour force participation rate(%),Urban,2023,Q3,2023Q3,68.45749105101451
+national,,,urban,Labour force participation rate(%),Urban,2023,Q4,2023Q4,67.96084249283902
+national,,,urban,Labour force participation rate(%),Urban,2024,Q1,2024Q1,70.96319597916535
+national,,,urban,Labour force participation rate(%),Urban,2024,Q2,2024Q2,71.52016240946634
+national,,,urban,Labour force participation rate(%),Urban,2024,Q3,2024Q3,73.74845545233481
+national,,,urban,Labour force participation rate(%),Urban,2024,Q4,2024Q4,71.31958969304023
+national,,,urban,Labour force participation rate(%),Urban,2025,Q1,2025Q1,71.01686412562141
+national,,,urban,Labour force participation rate(%),Urban,2025,Q2,2025Q2,70.25254317780829
+national,,,urban,Labour force participation rate(%),Urban,2025,Q3,2025Q3,73.7926845495542
+national,,,urban,Labour force participation rate(%),Urban,2025,Q4,2025Q4,71.95794481036526
+national,,,urban,Labour force participation rate(%),Urban,2026,Q1,2026Q1,70.9075058044654
+national,,,urban,Labour force participation rate(%),Urban,2026,Q2,2026Q2,68.58436473019269
+national,,,urban,Employment-to-population ratio(%),Urban,2019,Q1,2019Q1,55.289048787575304
+national,,,urban,Employment-to-population ratio(%),Urban,2019,Q2,2019Q2,55.6825477454217
+national,,,urban,Employment-to-population ratio(%),Urban,2019,Q3,2019Q3,57.447762834245616
+national,,,urban,Employment-to-population ratio(%),Urban,2019,Q4,2019Q4,58.431977148569544
+national,,,urban,Employment-to-population ratio(%),Urban,2020,Q1,2020Q1,58.76414127819719
+national,,,urban,Employment-to-population ratio(%),Urban,2020,Q2,2020Q2,48.97939014923608
+national,,,urban,Employment-to-population ratio(%),Urban,2020,Q3,2020Q3,59.54778017931506
+national,,,urban,Employment-to-population ratio(%),Urban,2020,Q4,2020Q4,52.213610250962084
+national,,,urban,Employment-to-population ratio(%),Urban,2021,Q1,2021Q1,46.131745107863026
+national,,,urban,Employment-to-population ratio(%),Urban,2021,Q2,2021Q2,48.64558439444817
+national,,,urban,Employment-to-population ratio(%),Urban,2021,Q3,2021Q3,49.311850057567696
+national,,,urban,Employment-to-population ratio(%),Urban,2021,Q4,2021Q4,53.63421826822588
+national,,,urban,Employment-to-population ratio(%),Urban,2022,Q1,2022Q1,52.055302663830844
+national,,,urban,Employment-to-population ratio(%),Urban,2022,Q2,2022Q2,49.63681780786965
+national,,,urban,Employment-to-population ratio(%),Urban,2022,Q3,2022Q3,56.20488260845924
+national,,,urban,Employment-to-population ratio(%),Urban,2022,Q4,2022Q4,50.58927614825352
+national,,,urban,Employment-to-population ratio(%),Urban,2023,Q1,2023Q1,54.48911548259346
+national,,,urban,Employment-to-population ratio(%),Urban,2023,Q2,2023Q2,56.6806800866936
+national,,,urban,Employment-to-population ratio(%),Urban,2023,Q3,2023Q3,57.5871575834402
+national,,,urban,Employment-to-population ratio(%),Urban,2023,Q4,2023Q4,57.632417303025214
+national,,,urban,Employment-to-population ratio(%),Urban,2024,Q1,2024Q1,60.98171963861761
+national,,,urban,Employment-to-population ratio(%),Urban,2024,Q2,2024Q2,60.22806287220794
+national,,,urban,Employment-to-population ratio(%),Urban,2024,Q3,2024Q3,63.553021382688904
+national,,,urban,Employment-to-population ratio(%),Urban,2024,Q4,2024Q4,61.59357171761107
+national,,,urban,Employment-to-population ratio(%),Urban,2025,Q1,2025Q1,62.86476238109943
+national,,,urban,Employment-to-population ratio(%),Urban,2025,Q2,2025Q2,60.60919626169159
+national,,,urban,Employment-to-population ratio(%),Urban,2025,Q3,2025Q3,65.09247058021242
+national,,,urban,Employment-to-population ratio(%),Urban,2025,Q4,2025Q4,64.04027280244617
+national,,,urban,Employment-to-population ratio(%),Urban,2026,Q1,2026Q1,62.59523149891
+national,,,urban,Employment-to-population ratio(%),Urban,2026,Q2,2026Q2,58.91871894169775
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2019,Q1,2019Q1,34.40699415025005
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2019,Q2,2019Q2,34.233342442178156
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2019,Q3,2019Q3,32.197687329382646
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2019,Q4,2019Q4,31.587020608088743
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2020,Q1,2020Q1,31.26534781277919
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2020,Q2,2020Q2,37.997382692629934
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2020,Q3,2020Q3,28.286859514052693
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2020,Q4,2020Q4,34.42710212027974
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2021,Q1,2021Q1,40.97611431471547
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2021,Q2,2021Q2,38.25505243556509
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2021,Q3,2021Q3,39.75327359615981
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2021,Q4,2021Q4,31.41268602996134
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2022,Q1,2022Q1,36.6827309516949
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2022,Q2,2022Q2,36.477585825738096
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2022,Q3,2022Q3,32.00393519885235
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2022,Q4,2022Q4,33.380165597878545
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2023,Q1,2023Q1,35.232472020191416
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2023,Q2,2023Q2,32.2720067844101
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2023,Q3,2023Q3,31.54250894898548
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2023,Q4,2023Q4,32.03915750716098
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2024,Q1,2024Q1,29.03680402083465
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2024,Q2,2024Q2,28.47983759053366
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2024,Q3,2024Q3,26.251544547665194
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2024,Q4,2024Q4,28.680410306959768
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2025,Q1,2025Q1,28.983135874378583
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2025,Q2,2025Q2,29.74745682219171
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2025,Q3,2025Q3,26.207315450445808
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2025,Q4,2025Q4,28.04205518963474
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2026,Q1,2026Q1,29.092494195534606
+national,,,urban,Out of labour force (Inactivity rate(%)),Urban,2026,Q2,2026Q2,31.415635269807314
+national,,,urban,Time related underemployment rate(%),Urban,2019,Q1,2019Q1,15.126506744399821
+national,,,urban,Time related underemployment rate(%),Urban,2019,Q2,2019Q2,9.567815350333536
+national,,,urban,Time related underemployment rate(%),Urban,2019,Q3,2019Q3,12.214411346713845
+national,,,urban,Time related underemployment rate(%),Urban,2019,Q4,2019Q4,11.759569231918615
+national,,,urban,Time related underemployment rate(%),Urban,2020,Q1,2020Q1,16.318018115260617
+national,,,urban,Time related underemployment rate(%),Urban,2020,Q2,2020Q2,0.0
+national,,,urban,Time related underemployment rate(%),Urban,2020,Q3,2020Q3,15.272066756143376
+national,,,urban,Time related underemployment rate(%),Urban,2020,Q4,2020Q4,15.317269130372308
+national,,,urban,Time related underemployment rate(%),Urban,2021,Q1,2021Q1,15.744011246725364
+national,,,urban,Time related underemployment rate(%),Urban,2021,Q2,2021Q2,21.052971664466842
+national,,,urban,Time related underemployment rate(%),Urban,2021,Q3,2021Q3,16.875374991792622
+national,,,urban,Time related underemployment rate(%),Urban,2021,Q4,2021Q4,14.81219324662782
+national,,,urban,Time related underemployment rate(%),Urban,2022,Q1,2022Q1,18.604338482127062
+national,,,urban,Time related underemployment rate(%),Urban,2022,Q2,2022Q2,16.534597093539624
+national,,,urban,Time related underemployment rate(%),Urban,2022,Q3,2022Q3,11.618967134391104
+national,,,urban,Time related underemployment rate(%),Urban,2022,Q4,2022Q4,14.452206200433372
+national,,,urban,Time related underemployment rate(%),Urban,2023,Q1,2023Q1,18.304090496801365
+national,,,urban,Time related underemployment rate(%),Urban,2023,Q2,2023Q2,21.345729534525717
+national,,,urban,Time related underemployment rate(%),Urban,2023,Q3,2023Q3,20.744562853599383
+national,,,urban,Time related underemployment rate(%),Urban,2023,Q4,2023Q4,20.24674097678568
+national,,,urban,Time related underemployment rate(%),Urban,2024,Q1,2024Q1,16.19281049539019
+national,,,urban,Time related underemployment rate(%),Urban,2024,Q2,2024Q2,19.139613666197427
+national,,,urban,Time related underemployment rate(%),Urban,2024,Q3,2024Q3,24.107737374313977
+national,,,urban,Time related underemployment rate(%),Urban,2024,Q4,2024Q4,24.449800578303215
+national,,,urban,Time related underemployment rate(%),Urban,2025,Q1,2025Q1,23.232484031952286
+national,,,urban,Time related underemployment rate(%),Urban,2025,Q2,2025Q2,22.375660053067655
+national,,,urban,Time related underemployment rate(%),Urban,2025,Q3,2025Q3,23.804312150068444
+national,,,urban,Time related underemployment rate(%),Urban,2025,Q4,2025Q4,24.64352215213214
+national,,,urban,Time related underemployment rate(%),Urban,2026,Q1,2026Q1,23.29559741029777
+national,,,urban,Time related underemployment rate(%),Urban,2026,Q2,2026Q2,23.980139121323003
+national,,,urban,LU1-Unemployment rate (%),Urban,2019,Q1,2019Q1,15.708926475754634
+national,,,urban,LU1-Unemployment rate (%),Urban,2019,Q2,2019Q2,15.333164534831699
+national,,,urban,LU1-Unemployment rate (%),Urban,2019,Q3,2019Q3,15.271676479051674
+national,,,urban,LU1-Unemployment rate (%),Urban,2019,Q4,2019Q4,14.589340110689298
+national,,,urban,LU1-Unemployment rate (%),Urban,2020,Q1,2020Q1,14.505799610167157
+national,,,urban,LU1-Unemployment rate (%),Urban,2020,Q2,2020Q2,21.00431840412962
+national,,,urban,LU1-Unemployment rate (%),Urban,2020,Q3,2020Q3,16.963920732234744
+national,,,urban,LU1-Unemployment rate (%),Urban,2020,Q4,2020Q4,20.373184746635708
+national,,,urban,LU1-Unemployment rate (%),Urban,2021,Q1,2021Q1,21.842243064379772
+national,,,urban,LU1-Unemployment rate (%),Urban,2021,Q2,2021Q2,21.215279446657057
+national,,,urban,LU1-Unemployment rate (%),Urban,2021,Q3,2021Q3,18.150158521435436
+national,,,urban,LU1-Unemployment rate (%),Urban,2021,Q4,2021Q4,21.801547307049837
+national,,,urban,LU1-Unemployment rate (%),Urban,2022,Q1,2022Q1,17.786563687518544
+national,,,urban,LU1-Unemployment rate (%),Urban,2022,Q2,2022Q2,21.85936499248865
+national,,,urban,LU1-Unemployment rate (%),Urban,2022,Q3,2022Q3,17.340977345043942
+national,,,urban,LU1-Unemployment rate (%),Urban,2022,Q4,2022Q4,24.062741070634452
+national,,,urban,LU1-Unemployment rate (%),Urban,2023,Q1,2023Q1,15.869700168917108
+national,,,urban,LU1-Unemployment rate (%),Urban,2023,Q2,2023Q2,16.311295528469
+national,,,urban,LU1-Unemployment rate (%),Urban,2023,Q3,2023Q3,15.878953932848264
+national,,,urban,LU1-Unemployment rate (%),Urban,2023,Q4,2023Q4,15.1976120527083
+national,,,urban,LU1-Unemployment rate (%),Urban,2024,Q1,2024Q1,14.065708573044368
+national,,,urban,LU1-Unemployment rate (%),Urban,2024,Q2,2024Q2,15.788693924671215
+national,,,urban,LU1-Unemployment rate (%),Urban,2024,Q3,2024Q3,13.824606911578549
+national,,,urban,LU1-Unemployment rate (%),Urban,2024,Q4,2024Q4,13.637232094702137
+national,,,urban,LU1-Unemployment rate (%),Urban,2025,Q1,2025Q1,11.479106892275292
+national,,,urban,LU1-Unemployment rate (%),Urban,2025,Q2,2025Q2,13.726687291176793
+national,,,urban,LU1-Unemployment rate (%),Urban,2025,Q3,2025Q3,11.790076512935768
+national,,,urban,LU1-Unemployment rate (%),Urban,2025,Q4,2025Q4,11.003193641487355
+national,,,urban,LU1-Unemployment rate (%),Urban,2026,Q1,2026Q1,11.72270017292292
+national,,,urban,LU1-Unemployment rate (%),Urban,2026,Q2,2026Q2,14.093074750373619
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2019,Q1,2019Q1,28.45922139732662
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2019,Q2,2019Q2,23.43393101510971
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2019,Q3,2019Q3,25.620742441074803
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2019,Q4,2019Q4,24.633265791811333
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2020,Q1,2020Q1,28.456758717277292
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2020,Q2,2020Q2,0.0
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2020,Q3,2020Q3,29.64524618969198
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2020,Q4,2020Q4,32.56983833893786
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2021,Q1,2021Q1,34.14740910651209
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2021,Q2,2021Q2,37.80180434068173
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2021,Q3,2021Q3,31.962626201131027
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2021,Q4,2021Q4,33.384453235802454
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2022,Q1,2022Q1,33.08182965688056
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2022,Q2,2022Q2,34.779604157314026
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2022,Q3,2022Q3,26.945102020932183
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2022,Q4,2022Q4,35.03735031406336
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2023,Q1,2023Q1,31.268986385228846
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2023,Q2,2023Q2,34.17526003591054
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2023,Q3,2023Q3,33.329497207353846
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2023,Q4,2023Q4,32.36733188252537
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2024,Q1,2024Q1,27.980885534367633
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2024,Q2,2024Q2,31.906412570748188
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2024,Q3,2024Q3,34.59954435861791
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2024,Q4,2024Q4,34.75275662145032
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2025,Q1,2025Q1,32.04470924846898
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2025,Q2,2025Q2,33.03091045942309
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2025,Q3,2025Q3,32.787842047133076
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2025,Q4,2025Q4,32.935141331137565
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2026,Q1,2026Q1,32.287424545320285
+national,,,urban,LU2-Combined rate of unemployment and time-related underemployment(%),Urban,2026,Q2,2026Q2,34.69367494008498
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2019,Q1,2019Q1,29.699752970760454
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2019,Q2,2019Q2,29.89946399473222
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2019,Q3,2019Q3,28.250626909913887
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2019,Q4,2019Q4,29.403121630454788
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2020,Q1,2020Q1,28.46049851160552
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2020,Q2,2020Q2,21.00431840412962
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2020,Q3,2020Q3,31.96178197569003
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2020,Q4,2020Q4,32.579956785427285
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2021,Q1,2021Q1,39.556376429395186
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2021,Q2,2021Q2,33.776665316965314
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2021,Q3,2021Q3,35.520181748982665
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2021,Q4,2021Q4,31.731186873110136
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2022,Q1,2022Q1,30.889245345345916
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2022,Q2,2022Q2,32.54101126309091
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2022,Q3,2022Q3,27.82545680088455
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2022,Q4,2022Q4,34.75721603668655
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2023,Q1,2023Q1,29.722283008924908
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2023,Q2,2023Q2,27.989561633403454
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2023,Q3,2023Q3,29.196244697105136
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2023,Q4,2023Q4,27.936290483949143
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2024,Q1,2024Q1,24.605757914513585
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2024,Q2,2024Q2,26.86401340080935
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2024,Q3,2024Q3,26.79445101563203
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2024,Q4,2024Q4,25.953152312349648
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2025,Q1,2025Q1,23.730493563327787
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2025,Q2,2025Q2,26.496329107758736
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2025,Q3,2025Q3,26.435906219417557
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2025,Q4,2025Q4,25.172606139718635
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2026,Q1,2026Q1,25.10894817625994
+national,,,urban,LU3-Combined rate of unemployment and potential labour force(%),Urban,2026,Q2,2026Q2,28.37257614977338
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2019,Q1,2019Q1,40.33372457896811
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2019,Q2,2019Q2,36.606553839310315
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2019,Q3,2019Q3,37.01439047782541
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2019,Q4,2019Q4,37.70501041789483
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2020,Q1,2020Q1,40.13432732404887
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2020,Q3,2020Q3,42.352624052053024
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2020,Q4,2020Q4,42.9068662524167
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2021,Q1,2021Q1,49.07262732227955
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2021,Q2,2021Q2,47.71864520304965
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2021,Q3,2021Q3,46.40139287286818
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2021,Q4,2021Q4,41.84329540064428
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2022,Q1,2022Q1,43.746844068850145
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2022,Q2,2022Q2,43.6950832541151
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2022,Q3,2022Q3,36.21139325458668
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2022,Q4,2022Q4,44.18623770596788
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2023,Q1,2023Q1,42.58597992605724
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2023,Q2,2023Q2,43.36071504376349
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2023,Q3,2023Q3,43.88417421862287
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2023,Q4,2023Q4,42.52684308792721
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2024,Q1,2024Q1,36.814204659852116
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2024,Q2,2024Q2,40.86195868685636
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2024,Q3,2024Q3,44.44265250820823
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2024,Q4,2024Q4,44.05745890650008
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2025,Q1,2025Q1,41.44979446747648
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2025,Q2,2025Q2,42.94326063313228
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2025,Q3,2025Q3,43.94733273331649
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2025,Q4,2025Q4,43.61271152154024
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2026,Q1,2026Q1,42.55526610545589
+national,,,urban,LU4 - Composite measure of labour underutilization(%),Urban,2026,Q2,2026Q2,45.54893203807742
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2019,Q1,2019Q1,25.516581873865558
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2019,Q2,2019Q2,23.526566159576586
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2019,Q3,2019Q3,24.107282844306525
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2019,Q4,2019Q4,21.832548353917936
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2020,Q1,2020Q1,24.452384296197707
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2020,Q3,2020Q3,22.474071141673797
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2020,Q4,2020Q4,28.109284458731313
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2021,Q1,2021Q1,30.44075209201991
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2021,Q2,2021Q2,30.63450979744049
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2021,Q3,2021Q3,28.507118709599865
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2021,Q4,2021Q4,27.03375694623482
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2022,Q1,2022Q1,24.97897407226129
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2022,Q2,2022Q2,29.578627208660166
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2022,Q3,2022Q3,21.046475164298542
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2022,Q4,2022Q4,31.22915278016431
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2023,Q1,2023Q1,26.085062940127838
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2023,Q2,2023Q2,27.39152095800042
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2023,Q3,2023Q3,25.46352016874983
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2023,Q4,2023Q4,24.60849419955861
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2024,Q1,2024Q1,23.582409193315716
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2024,Q2,2024Q2,23.742995855144038
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2024,Q3,2024Q3,21.455408933720623
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2024,Q4,2024Q4,22.207180123840114
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2025,Q1,2025Q1,19.385966986686874
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2025,Q2,2025Q2,20.64730994729619
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2025,Q3,2025Q3,20.08590750080464
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2025,Q4,2025Q4,20.482905487619618
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2026,Q1,2026Q1,19.6182558218654
+national,,,urban,NEET rate-Youth not in employment nor currently in education or training(%),Urban,2026,Q2,2026Q2,21.0093819956613
+national,,,urban,Median monthly earnings at main job,Urban,2019,Q1,2019Q1,50000.0
+national,,,urban,Median monthly earnings at main job,Urban,2019,Q2,2019Q2,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2019,Q3,2019Q3,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2019,Q4,2019Q4,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2020,Q1,2020Q1,60000.0
+national,,,urban,Median monthly earnings at main job,Urban,2020,Q3,2020Q3,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2020,Q4,2020Q4,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2021,Q1,2021Q1,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2021,Q2,2021Q2,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2021,Q3,2021Q3,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2021,Q4,2021Q4,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2022,Q1,2022Q1,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2022,Q2,2022Q2,60000.0
+national,,,urban,Median monthly earnings at main job,Urban,2022,Q3,2022Q3,78000.0
+national,,,urban,Median monthly earnings at main job,Urban,2022,Q4,2022Q4,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2023,Q1,2023Q1,52000.0
+national,,,urban,Median monthly earnings at main job,Urban,2023,Q2,2023Q2,60000.0
+national,,,urban,Median monthly earnings at main job,Urban,2023,Q3,2023Q3,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2023,Q4,2023Q4,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2024,Q1,2024Q1,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2024,Q2,2024Q2,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2024,Q3,2024Q3,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2024,Q4,2024Q4,75833.3359375
+national,,,urban,Median monthly earnings at main job,Urban,2025,Q1,2025Q1,65000.0
+national,,,urban,Median monthly earnings at main job,Urban,2025,Q2,2025Q2,78000.0
+national,,,urban,Median monthly earnings at main job,Urban,2025,Q3,2025Q3,78000.0
+national,,,urban,Median monthly earnings at main job,Urban,2025,Q4,2025Q4,78000.0
+national,,,urban,Median monthly earnings at main job,Urban,2026,Q1,2026Q1,78000.0
+national,,,urban,Median monthly earnings at main job,Urban,2026,Q2,2026Q2,78000.0
+national,,,rural,Labour force participation rate(%),Rural,2019,Q1,2019Q1,49.48545106858801
+national,,,rural,Labour force participation rate(%),Rural,2019,Q2,2019Q2,50.67078861440671
+national,,,rural,Labour force participation rate(%),Rural,2019,Q3,2019Q3,48.37602336960967
+national,,,rural,Labour force participation rate(%),Rural,2019,Q4,2019Q4,51.45923301101026
+national,,,rural,Labour force participation rate(%),Rural,2020,Q1,2020Q1,52.14809766138228
+national,,,rural,Labour force participation rate(%),Rural,2020,Q2,2020Q2,53.584019592589634
+national,,,rural,Labour force participation rate(%),Rural,2020,Q3,2020Q3,54.76038598725665
+national,,,rural,Labour force participation rate(%),Rural,2020,Q4,2020Q4,53.55082877282026
+national,,,rural,Labour force participation rate(%),Rural,2021,Q1,2021Q1,48.7007539992856
+national,,,rural,Labour force participation rate(%),Rural,2021,Q2,2021Q2,50.666182528258446
+national,,,rural,Labour force participation rate(%),Rural,2021,Q3,2021Q3,48.44721946721695
+national,,,rural,Labour force participation rate(%),Rural,2021,Q4,2021Q4,58.66951009391059
+national,,,rural,Labour force participation rate(%),Rural,2022,Q1,2022Q1,52.26863843176902
+national,,,rural,Labour force participation rate(%),Rural,2022,Q2,2022Q2,51.729020905457205
+national,,,rural,Labour force participation rate(%),Rural,2022,Q3,2022Q3,53.957860772727585
+national,,,rural,Labour force participation rate(%),Rural,2022,Q4,2022Q4,56.568445626586794
+national,,,rural,Labour force participation rate(%),Rural,2023,Q1,2023Q1,54.40500799119768
+national,,,rural,Labour force participation rate(%),Rural,2023,Q2,2023Q2,55.85781468226679
+national,,,rural,Labour force participation rate(%),Rural,2023,Q3,2023Q3,56.11814416134093
+national,,,rural,Labour force participation rate(%),Rural,2023,Q4,2023Q4,56.5476696600398
+national,,,rural,Labour force participation rate(%),Rural,2024,Q1,2024Q1,57.05811372126752
+national,,,rural,Labour force participation rate(%),Rural,2024,Q2,2024Q2,58.69097483981789
+national,,,rural,Labour force participation rate(%),Rural,2024,Q3,2024Q3,59.749221828841925
+national,,,rural,Labour force participation rate(%),Rural,2024,Q4,2024Q4,60.90576672976928
+national,,,rural,Labour force participation rate(%),Rural,2025,Q1,2025Q1,59.7453111399849
+national,,,rural,Labour force participation rate(%),Rural,2025,Q2,2025Q2,58.77750371818302
+national,,,rural,Labour force participation rate(%),Rural,2025,Q3,2025Q3,62.27791096702222
+national,,,rural,Labour force participation rate(%),Rural,2025,Q4,2025Q4,60.71659968732098
+national,,,rural,Labour force participation rate(%),Rural,2026,Q1,2026Q1,61.54849152173432
+national,,,rural,Labour force participation rate(%),Rural,2026,Q2,2026Q2,59.30631273204963
+national,,,rural,Employment-to-population ratio(%),Rural,2019,Q1,2019Q1,42.46862532130797
+national,,,rural,Employment-to-population ratio(%),Rural,2019,Q2,2019Q2,43.1453944779382
+national,,,rural,Employment-to-population ratio(%),Rural,2019,Q3,2019Q3,40.50495661846871
+national,,,rural,Employment-to-population ratio(%),Rural,2019,Q4,2019Q4,43.38656329947143
+national,,,rural,Employment-to-population ratio(%),Rural,2020,Q1,2020Q1,45.59166498363418
+national,,,rural,Employment-to-population ratio(%),Rural,2020,Q2,2020Q2,41.617219953500786
+national,,,rural,Employment-to-population ratio(%),Rural,2020,Q3,2020Q3,46.192555467001
+national,,,rural,Employment-to-population ratio(%),Rural,2020,Q4,2020Q4,42.67709405653556
+national,,,rural,Employment-to-population ratio(%),Rural,2021,Q1,2021Q1,41.08846632760458
+national,,,rural,Employment-to-population ratio(%),Rural,2021,Q2,2021Q2,38.364943575134994
+national,,,rural,Employment-to-population ratio(%),Rural,2021,Q3,2021Q3,38.861715732141214
+national,,,rural,Employment-to-population ratio(%),Rural,2021,Q4,2021Q4,44.26524613229183
+national,,,rural,Employment-to-population ratio(%),Rural,2022,Q1,2022Q1,43.86576027726749
+national,,,rural,Employment-to-population ratio(%),Rural,2022,Q2,2022Q2,39.60811928466108
+national,,,rural,Employment-to-population ratio(%),Rural,2022,Q3,2022Q3,44.07314036726577
+national,,,rural,Employment-to-population ratio(%),Rural,2022,Q4,2022Q4,42.76601998564436
+national,,,rural,Employment-to-population ratio(%),Rural,2023,Q1,2023Q1,44.63051422518263
+national,,,rural,Employment-to-population ratio(%),Rural,2023,Q2,2023Q2,46.307091013321056
+national,,,rural,Employment-to-population ratio(%),Rural,2023,Q3,2023Q3,45.34795945744253
+national,,,rural,Employment-to-population ratio(%),Rural,2023,Q4,2023Q4,46.528679539656245
+national,,,rural,Employment-to-population ratio(%),Rural,2024,Q1,2024Q1,50.01239585570128
+national,,,rural,Employment-to-population ratio(%),Rural,2024,Q2,2024Q2,48.52749591194181
+national,,,rural,Employment-to-population ratio(%),Rural,2024,Q3,2024Q3,50.14944548202804
+national,,,rural,Employment-to-population ratio(%),Rural,2024,Q4,2024Q4,51.641697329485616
+national,,,rural,Employment-to-population ratio(%),Rural,2025,Q1,2025Q1,53.18091073966052
+national,,,rural,Employment-to-population ratio(%),Rural,2025,Q2,2025Q2,50.97078740776921
+national,,,rural,Employment-to-population ratio(%),Rural,2025,Q3,2025Q3,53.43257456333712
+national,,,rural,Employment-to-population ratio(%),Rural,2025,Q4,2025Q4,53.40992397706225
+national,,,rural,Employment-to-population ratio(%),Rural,2026,Q1,2026Q1,54.9832904293062
+national,,,rural,Employment-to-population ratio(%),Rural,2026,Q2,2026Q2,51.560132576764715
+national,,,rural,Time related underemployment rate(%),Rural,2019,Q1,2019Q1,33.010728899280615
+national,,,rural,Time related underemployment rate(%),Rural,2019,Q2,2019Q2,32.07498664462685
+national,,,rural,Time related underemployment rate(%),Rural,2019,Q3,2019Q3,32.32874826983226
+national,,,rural,Time related underemployment rate(%),Rural,2019,Q4,2019Q4,30.294379342132267
+national,,,rural,Time related underemployment rate(%),Rural,2020,Q1,2020Q1,37.82539620108539
+national,,,rural,Time related underemployment rate(%),Rural,2020,Q2,2020Q2,0.0
+national,,,rural,Time related underemployment rate(%),Rural,2020,Q3,2020Q3,31.775646587425932
+national,,,rural,Time related underemployment rate(%),Rural,2020,Q4,2020Q4,39.331427741546065
+national,,,rural,Time related underemployment rate(%),Rural,2021,Q1,2021Q1,36.43924105724141
+national,,,rural,Time related underemployment rate(%),Rural,2021,Q2,2021Q2,35.30863077895992
+national,,,rural,Time related underemployment rate(%),Rural,2021,Q3,2021Q3,34.54806072800794
+national,,,rural,Time related underemployment rate(%),Rural,2021,Q4,2021Q4,37.095960545268746
+national,,,rural,Time related underemployment rate(%),Rural,2022,Q1,2022Q1,31.371993754469745
+national,,,rural,Time related underemployment rate(%),Rural,2022,Q2,2022Q2,38.050512998361505
+national,,,rural,Time related underemployment rate(%),Rural,2022,Q3,2022Q3,40.356088129065206
+national,,,rural,Time related underemployment rate(%),Rural,2022,Q4,2022Q4,37.937907098229594
+national,,,rural,Time related underemployment rate(%),Rural,2023,Q1,2023Q1,33.98305678360464
+national,,,rural,Time related underemployment rate(%),Rural,2023,Q2,2023Q2,33.279416613111835
+national,,,rural,Time related underemployment rate(%),Rural,2023,Q3,2023Q3,34.86131976019432
+national,,,rural,Time related underemployment rate(%),Rural,2023,Q4,2023Q4,35.805014243886255
+national,,,rural,Time related underemployment rate(%),Rural,2024,Q1,2024Q1,33.84081860298348
+national,,,rural,Time related underemployment rate(%),Rural,2024,Q2,2024Q2,38.29665683740445
+national,,,rural,Time related underemployment rate(%),Rural,2024,Q3,2024Q3,42.123899415116455
+national,,,rural,Time related underemployment rate(%),Rural,2024,Q4,2024Q4,39.88709075858619
+national,,,rural,Time related underemployment rate(%),Rural,2025,Q1,2025Q1,40.62726791431254
+national,,,rural,Time related underemployment rate(%),Rural,2025,Q2,2025Q2,44.037919646604465
+national,,,rural,Time related underemployment rate(%),Rural,2025,Q3,2025Q3,41.722083642356445
+national,,,rural,Time related underemployment rate(%),Rural,2025,Q4,2025Q4,43.74409915190798
+national,,,rural,Time related underemployment rate(%),Rural,2026,Q1,2026Q1,44.22667192609616
+national,,,rural,Time related underemployment rate(%),Rural,2026,Q2,2026Q2,47.44588341518281
+national,,,rural,LU1-Unemployment rate (%),Rural,2019,Q1,2019Q1,14.179573179103816
+national,,,rural,LU1-Unemployment rate (%),Rural,2019,Q2,2019Q2,14.851543349236314
+national,,,rural,LU1-Unemployment rate (%),Rural,2019,Q3,2019Q3,16.270594817195416
+national,,,rural,LU1-Unemployment rate (%),Rural,2019,Q4,2019Q4,15.687504922219873
+national,,,rural,LU1-Unemployment rate (%),Rural,2020,Q1,2020Q1,12.572716880913953
+national,,,rural,LU1-Unemployment rate (%),Rural,2020,Q2,2020Q2,22.33277706688467
+national,,,rural,LU1-Unemployment rate (%),Rural,2020,Q3,2020Q3,15.646037488211787
+national,,,rural,LU1-Unemployment rate (%),Rural,2020,Q4,2020Q4,20.305446181635322
+national,,,rural,LU1-Unemployment rate (%),Rural,2021,Q1,2021Q1,15.630738841933914
+national,,,rural,LU1-Unemployment rate (%),Rural,2021,Q2,2021Q2,24.278993086291017
+national,,,rural,LU1-Unemployment rate (%),Rural,2021,Q3,2021Q3,19.785456916804087
+national,,,rural,LU1-Unemployment rate (%),Rural,2021,Q4,2021Q4,24.551532710196945
+national,,,rural,LU1-Unemployment rate (%),Rural,2022,Q1,2022Q1,16.07632876351001
+national,,,rural,LU1-Unemployment rate (%),Rural,2022,Q2,2022Q2,23.431531099243006
+national,,,rural,LU1-Unemployment rate (%),Rural,2022,Q3,2022Q3,18.31933339072986
+national,,,rural,LU1-Unemployment rate (%),Rural,2022,Q4,2022Q4,24.3995137007183
+national,,,rural,LU1-Unemployment rate (%),Rural,2023,Q1,2023Q1,17.966165481671258
+national,,,rural,LU1-Unemployment rate (%),Rural,2023,Q2,2023Q2,17.098276621225942
+national,,,rural,LU1-Unemployment rate (%),Rural,2023,Q3,2023Q3,19.191983029470617
+national,,,rural,LU1-Unemployment rate (%),Rural,2023,Q4,2023Q4,17.717777196862315
+national,,,rural,LU1-Unemployment rate (%),Rural,2024,Q1,2024Q1,12.348318943708898
+national,,,rural,LU1-Unemployment rate (%),Rural,2024,Q2,2024Q2,17.31693664249863
+national,,,rural,LU1-Unemployment rate (%),Rural,2024,Q3,2024Q3,16.066780542035307
+national,,,rural,LU1-Unemployment rate (%),Rural,2024,Q4,2024Q4,15.210496308809473
+national,,,rural,LU1-Unemployment rate (%),Rural,2025,Q1,2025Q1,10.98730640960897
+national,,,rural,LU1-Unemployment rate (%),Rural,2025,Q2,2025Q2,13.28180990442229
+national,,,rural,LU1-Unemployment rate (%),Rural,2025,Q3,2025Q3,14.203007561330919
+national,,,rural,LU1-Unemployment rate (%),Rural,2025,Q4,2025Q4,12.034066050942792
+national,,,rural,LU1-Unemployment rate (%),Rural,2026,Q1,2026Q1,10.66671323717135
+national,,,rural,LU1-Unemployment rate (%),Rural,2026,Q2,2026Q2,13.061307976239808
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2019,Q1,2019Q1,42.50952161715537
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2019,Q2,2019Q2,42.16289944807465
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2019,Q3,2019Q3,43.3392634465722
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2019,Q4,2019Q4,41.229452013899184
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2020,Q1,2020Q1,45.64243310855289
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2020,Q2,2020Q2,0.0
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2020,Q3,2020Q3,42.45005449844737
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2020,Q4,2020Q4,51.650452030652964
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2021,Q1,2021Q1,46.374257293535166
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2021,Q2,2021Q2,51.01504383956323
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2021,Q3,2021Q3,47.49802597388071
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2021,Q4,2021Q4,52.539866368032285
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2022,Q1,2022Q1,42.40485766234337
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2022,Q2,2022Q2,52.566226310971935
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2022,Q3,2022Q3,51.282455191974854
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2022,Q4,2022Q4,53.080755958749585
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2023,Q1,2023Q1,45.843770047803176
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2023,Q2,2023Q2,44.6874865238977
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2023,Q3,2023Q3,47.36272421743896
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2023,Q4,2023Q4,47.178938791711985
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2024,Q1,2024Q1,42.010365332434006
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2024,Q2,2024Q2,48.98178567917463
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2024,Q3,2024Q3,51.4227254823773
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2024,Q4,2024Q4,49.03056259986943
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2025,Q1,2025Q1,47.15073191232324
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2025,Q2,2025Q2,51.470696777702514
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2025,Q3,2025Q3,49.99930050921866
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2025,Q4,2025Q4,50.51397141752026
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2026,Q1,2026Q1,50.17585289456626
+national,,,rural,LU2-Combined rate of unemployment and time-related underemployment(%),Rural,2026,Q2,2026Q2,54.31013843651791
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2019,Q1,2019Q1,41.578219290326565
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2019,Q2,2019Q2,41.34548318899077
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2019,Q3,2019Q3,44.50049985345609
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2019,Q4,2019Q4,41.66704987444524
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2020,Q1,2020Q1,39.02735405201047
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2020,Q2,2020Q2,22.33277706688467
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2020,Q3,2020Q3,41.63883238668664
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2020,Q4,2020Q4,43.20312633837501
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2021,Q1,2021Q1,39.50957010786642
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2021,Q2,2021Q2,44.18375697192565
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2021,Q3,2021Q3,44.793017929697186
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2021,Q4,2021Q4,39.274073717942215
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2022,Q1,2022Q1,35.02713846352765
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2022,Q2,2022Q2,43.20081994183943
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2022,Q3,2022Q3,39.51144757677018
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2022,Q4,2022Q4,40.662895390287865
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2023,Q1,2023Q1,39.1810368050325
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2023,Q2,2023Q2,36.865501183754056
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2023,Q3,2023Q3,40.634218740661645
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2023,Q4,2023Q4,37.20484688009061
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2024,Q1,2024Q1,32.15556868389958
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2024,Q2,2024Q2,35.26290317386337
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2024,Q3,2024Q3,38.60915117345636
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2024,Q4,2024Q4,33.48726951796525
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2025,Q1,2025Q1,30.88297845889412
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2025,Q2,2025Q2,34.540953030317375
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2025,Q3,2025Q3,36.06715146640875
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2025,Q4,2025Q4,33.37789066034269
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2026,Q1,2026Q1,31.3298650073234
+national,,,rural,LU3-Combined rate of unemployment and potential labour force(%),Rural,2026,Q2,2026Q2,35.38482850722402
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2019,Q1,2019Q1,60.86367493852909
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2019,Q2,2019Q2,60.158911622592385
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2019,Q3,2019Q3,62.44279354684746
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2019,Q4,2019Q4,59.33865506693762
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2020,Q1,2020Q1,62.09049895612255
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2020,Q3,2020Q3,60.18347075178838
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2020,Q4,2020Q4,65.54214766205426
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2021,Q1,2021Q1,61.5518236728226
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2021,Q2,2021Q2,63.89170813739538
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2021,Q3,2021Q3,63.86595962144586
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2021,Q4,2021Q4,61.80093937228336
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2022,Q1,2022Q1,55.41042052685003
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2022,Q2,2022Q2,64.81319933283257
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2022,Q3,2022Q3,63.922261100684615
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2022,Q4,2022Q4,63.17415101189977
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2023,Q1,2023Q1,59.84917960277791
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2023,Q2,2023Q2,57.8762940714127
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2023,Q3,2023Q3,61.329913573617105
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2023,Q4,2023Q4,59.68866039914435
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2024,Q1,2024Q1,55.11467961780684
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2024,Q2,2024Q2,60.055046991867165
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2024,Q3,2024Q3,64.4693705832358
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2024,Q4,2024Q4,60.01726269134828
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2025,Q1,2025Q1,58.963335974792315
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2025,Q2,2025Q2,63.36775553625928
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2025,Q3,2025Q3,62.741268006534746
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2025,Q4,2025Q4,62.521132226974935
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2026,Q1,2026Q1,61.70038032174183
+national,,,rural,LU4 - Composite measure of labour underutilization(%),Rural,2026,Q2,2026Q2,66.04206744220696
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2019,Q1,2019Q1,36.85720070882154
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2019,Q2,2019Q2,35.78789102269643
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2019,Q3,2019Q3,39.178572831281244
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2019,Q4,2019Q4,38.579458667858354
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2020,Q1,2020Q1,37.24353887453312
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2020,Q3,2020Q3,34.56847550010523
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2020,Q4,2020Q4,37.27797183741507
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2021,Q1,2021Q1,35.34893651616984
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2021,Q2,2021Q2,39.395633615258
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2021,Q3,2021Q3,40.29202052551359
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2021,Q4,2021Q4,35.086834796173235
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2022,Q1,2022Q1,33.44215953355716
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2022,Q2,2022Q2,38.2528943912352
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2022,Q3,2022Q3,36.03833758893738
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2022,Q4,2022Q4,37.458343139921126
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2023,Q1,2023Q1,36.829753292701696
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2023,Q2,2023Q2,36.90348655035075
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2023,Q3,2023Q3,36.9720904325364
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2023,Q4,2023Q4,34.860083811145934
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2024,Q1,2024Q1,30.62498998639011
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2024,Q2,2024Q2,31.583823083814604
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2024,Q3,2024Q3,32.999215605528775
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2024,Q4,2024Q4,29.735866480205985
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2025,Q1,2025Q1,24.720595554074084
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2025,Q2,2025Q2,26.599287275266203
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2025,Q3,2025Q3,28.40119211274171
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2025,Q4,2025Q4,27.08425768341944
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2026,Q1,2026Q1,23.25826421085317
+national,,,rural,NEET rate-Youth not in employment nor currently in education or training(%),Rural,2026,Q2,2026Q2,26.92070110770221
+national,,,rural,Median monthly earnings at main job,Rural,2019,Q1,2019Q1,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2019,Q2,2019Q2,19200.0
+national,,,rural,Median monthly earnings at main job,Rural,2019,Q3,2019Q3,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2019,Q4,2019Q4,20000.0
+national,,,rural,Median monthly earnings at main job,Rural,2020,Q1,2020Q1,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2020,Q3,2020Q3,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2020,Q4,2020Q4,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2021,Q1,2021Q1,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2021,Q2,2021Q2,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2021,Q3,2021Q3,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2021,Q4,2021Q4,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2022,Q1,2022Q1,20800.0
+national,,,rural,Median monthly earnings at main job,Rural,2022,Q2,2022Q2,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2022,Q3,2022Q3,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2022,Q4,2022Q4,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2023,Q1,2023Q1,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2023,Q2,2023Q2,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2023,Q3,2023Q3,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2023,Q4,2023Q4,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2024,Q1,2024Q1,28166.666015625
+national,,,rural,Median monthly earnings at main job,Rural,2024,Q2,2024Q2,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2024,Q3,2024Q3,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2024,Q4,2024Q4,26000.0
+national,,,rural,Median monthly earnings at main job,Rural,2025,Q1,2025Q1,31200.0
+national,,,rural,Median monthly earnings at main job,Rural,2025,Q2,2025Q2,31200.0
+national,,,rural,Median monthly earnings at main job,Rural,2025,Q3,2025Q3,31200.0
+national,,,rural,Median monthly earnings at main job,Rural,2025,Q4,2025Q4,31200.0
+national,,,rural,Median monthly earnings at main job,Rural,2026,Q1,2026Q1,39000.0
+national,,,rural,Median monthly earnings at main job,Rural,2026,Q2,2026Q2,39000.0

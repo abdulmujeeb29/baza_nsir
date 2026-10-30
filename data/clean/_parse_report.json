@@ -1,0 +1,538 @@
+{
+  "census_t1_population": {
+    "title": "Table 1: Resident population by sex, Province, District and population density",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "counts_both_sexes",
+      "counts_male",
+      "counts_female",
+      "population_share_pct",
+      "population_density"
+    ],
+    "warnings": []
+  },
+  "census_t2_urban_rural_population": {
+    "title": "Table 2: Resident population by residence, Province, and District",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "count_total",
+      "count_urban",
+      "count_rural",
+      "percentage_total",
+      "percentage_urban",
+      "percentage_rural"
+    ],
+    "warnings": []
+  },
+  "census_t21_internet_use": {
+    "title": "Table 21: Percentage of the population who used internet by district according to age groups",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "population_10_years_and_above_both_sexes",
+      "population_10_years_and_above_male",
+      "population_10_years_and_above_female",
+      "population_16_years_and_above_both_sexes",
+      "population_16_years_and_above_male",
+      "population_16_years_and_above_female",
+      "population_21_years_and_above_both_sexes",
+      "population_21_years_and_above_male",
+      "population_21_years_and_above_female"
+    ],
+    "warnings": []
+  },
+  "census_t25_mobile_phone": {
+    "title": "Table 25: Percentage of private households whose at least one member owns a mobile phone",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "sex_of_the_household_head_all",
+      "sex_of_the_household_head_male_head",
+      "sex_of_the_household_head_female_head",
+      "area_of_residence_rwanda",
+      "area_of_residence_urban",
+      "area_of_residence_rural"
+    ],
+    "warnings": []
+  },
+  "census_t28_health_insurance": {
+    "title": "Table 28: Prevalence of medical insurance by district, residence and sex",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total_both_sexes",
+      "total_male",
+      "total_female",
+      "urban_both_sexes",
+      "urban_male",
+      "urban_female",
+      "rural_both_sexes",
+      "rural_male",
+      "rural_female"
+    ],
+    "warnings": []
+  },
+  "census_t40_birth_registration": {
+    "title": "Table 40: Birth registration rate by district, sex, and residence",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total_both_sexes",
+      "total_male",
+      "total_female",
+      "urban_both_sexes",
+      "urban_male",
+      "urban_female",
+      "rural_both_sexes",
+      "rural_male",
+      "rural_female"
+    ],
+    "warnings": []
+  },
+  "census_t45_youth_share": {
+    "title": "Table 45: Share of the youth in the population by district, sex and residence",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total_both_sexes",
+      "total_male",
+      "total_female",
+      "urban_both_sexes",
+      "urban_male",
+      "urban_female",
+      "rural_both_sexes",
+      "rural_male",
+      "rural_female"
+    ],
+    "warnings": []
+  },
+  "census_t54_disability": {
+    "title": "Table 54: Number and Percentage of population aged 5+ years with disability by district",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "counts_both_sexes",
+      "counts_male",
+      "counts_female",
+      "percentage_both_sexes",
+      "percentage_male",
+      "percentage_female"
+    ],
+    "warnings": []
+  },
+  "census_t59_female_headed_households": {
+    "title": "Table 59: Number and Percentage of the households headed by women by district",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "all_number",
+      "all_pct",
+      "urban_number",
+      "urban_pct",
+      "rural_number",
+      "rural_pct"
+    ],
+    "warnings": []
+  },
+  "census_t60_household_size": {
+    "title": "Table 60: Mean size of the private households by district, sex of the household head and residence",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "sex_of_household_head_total",
+      "sex_of_household_head_male",
+      "sex_of_household_head_female",
+      "area_of_residence_urban",
+      "area_of_residence_rural"
+    ],
+    "warnings": []
+  },
+  "census_t68_improved_water": {
+    "title": "Table 68: Percentage of private households that have access to improved drinking water by district",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "rwanda_total",
+      "rwanda_urban",
+      "rwanda_rural",
+      "male_head_total",
+      "male_head_urban",
+      "male_head_rural",
+      "female_head_total",
+      "female_head_urban",
+      "female_head_rural"
+    ],
+    "warnings": []
+  },
+  "census_t74_electricity_access": {
+    "title": "Table 74: Proportion of households that have access to electricity by sex of the household head and residence",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "sex_of_the_household_head_all",
+      "sex_of_the_household_head_male_head",
+      "sex_of_the_household_head_female_head",
+      "area_of_residence_rwanda",
+      "area_of_residence_urban",
+      "area_of_residence_rural"
+    ],
+    "warnings": []
+  },
+  "census_t75_lighting_source": {
+    "title": "Table 75: Distribution of private households by main source of energy for lighting, Province and District",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total",
+      "electricity_from_reg",
+      "private_hydro_mini_grid",
+      "solar_power",
+      "generator_betteries",
+      "kerosene_paraffin_lantern_lamp",
+      "biogas",
+      "candles",
+      "firewoods",
+      "flashlight_phone_flashlight",
+      "other",
+      "not_stated"
+    ],
+    "warnings": []
+  },
+  "census_t76_cooking_energy": {
+    "title": "Table 76: % of the private households by main source of energy for cooking, Province and District",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total",
+      "firewood",
+      "charcoal",
+      "gas",
+      "other",
+      "do_not_cook",
+      "not_stated"
+    ],
+    "warnings": []
+  },
+  "census_t79_agricultural_households": {
+    "title": "Table 79: Number and Percentage of private agricultural households by Province, District and residence",
+    "rows": 36,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "total_households_counts_total",
+      "total_households_counts_urban",
+      "total_households_counts_rural",
+      "agricultural_households_counts_total",
+      "agricultural_households_counts_urban",
+      "agricultural_households_counts_rural",
+      "agricultural_households_percentage_total",
+      "agricultural_households_percentage_urban",
+      "agricultural_households_percentage_rural"
+    ],
+    "warnings": []
+  },
+  "eicv7_a9_23_poverty_rate": {
+    "title": "Table A9.23: Headcount Poverty rate(%) by area of residence, province and district",
+    "rows": 38,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a3_7_health_insurance": {
+    "title": "Table A3.7: Percentage (%) of population with health insurance,by area of residence, province, consumption quintile and sex and district",
+    "rows": 45,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a5_14_electricity_lighting": {
+    "title": "Table A5.14: Percentage (%) of households using electricity as main source of lighting by area of residence, province, consumption quintile and sex of head of household and district",
+    "rows": 45,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a5_15_internet_at_home": {
+    "title": "Table A5.15: Percentage (%) of households with internet access at home (including through mobile phones), according to area of residence, province, sex of head of household and type of habitat and district",
+    "rows": 50,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a5_16_improved_water": {
+    "title": "Table A5.16: Percentage of households using improved drinking water source, according to area of residence, province, consumption quintile and sex of head of household and district",
+    "rows": 50,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a5_17_improved_sanitation": {
+    "title": "Table A5.17: Percentage of households using improved sanitaion, according to area of residence, province, consumption quintile and sex of head of household and district",
+    "rows": 45,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a5_19_smartphone": {
+    "title": "Table A5.19: Percentage (%) of households by ownning smartphone, according to area of residence, province, consumption quintile and sex of head of household and district",
+    "rows": 45,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_a6_20_workforce_ratio": {
+    "title": "Table A6.20: Workforce to population ratio by sex, area of residence, province, consumption quintile, age, disability status and district",
+    "rows": 58,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "cv",
+      "design_effect"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a05_safe_water": {
+    "title": "Table A.5: Distribution (% and count) of households using safely managed drinking water according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "basic",
+      "limited",
+      "unimproved",
+      "surface_water",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a07_safe_sanitation": {
+    "title": "Table A.7: Distribution (% and count) of households using safely managed sanitation facility according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "safely_managed",
+      "basic",
+      "limited",
+      "unimproved",
+      "open_defecation",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a09_cooking_fuel": {
+    "title": "Table A.9: Distribution (% and count) of households by primary cooking fuel according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "main_type_of_cooking_fuel_firewood",
+      "main_type_of_cooking_fuel_charcoal",
+      "main_type_of_cooking_fuel_crop_waste",
+      "main_type_of_cooking_fuel_gas_or_biogas",
+      "main_type_of_cooking_fuel_other_type_of_cooking_fuel",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a28_road_distance": {
+    "title": "Table A.28: Distribution (% and count) of households by walking distance to the nearest all-weather road according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "v_0_19_minutes_walk",
+      "v_20_59_minutes_walk",
+      "v_60_119_minutes_walk",
+      "no_use_not_known",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a31_transport_distance": {
+    "title": "Table A.31: Distribution (% and count) of households by walking distance to the nearest public transport stage according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "v_0_19_minutes_walk",
+      "v_20_59_minutes_walk",
+      "v_60_119_minutes_walk",
+      "v_120_minutes_walk",
+      "no_use_not_known",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a36_ict_devices": {
+    "title": "Table A.36: Distribution (% and count) of households by ownership of ICT devices (Radio, Computer, Mobile Phone, Smart Phone, TV Sets, and Video/DVD player) according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "radio",
+      "computer",
+      "mobile_phone",
+      "smart_phone",
+      "television_set",
+      "video_dvd_player",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_a37_internet_usage": {
+    "title": "Table A.37: Distribution (% and count) of households by usage rates for internet service facility according to district",
+    "rows": 31,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "regularly",
+      "often",
+      "sometimes",
+      "not_at_all",
+      "don_t_know_the_service",
+      "total",
+      "households_thousands"
+    ],
+    "warnings": []
+  },
+  "eicv7_util_b07_electricity_lighting": {
+    "title": "Table B.7: % of HH using electricity as primary source of lighting, EICV7",
+    "rows": 48,
+    "district_rows": 30,
+    "unique_districts": 30,
+    "numeric_cols": [
+      "value",
+      "std_error",
+      "ci_low",
+      "ci_high",
+      "unweighted_count"
+    ],
+    "warnings": []
+  },
+  "lfs_2026q2_indicators_rwanda": {
+    "title": "Table 1: Summary labour force indicators, Rwanda",
+    "rows": 505,
+    "district_rows": 0,
+    "unique_districts": 0,
+    "numeric_cols": [
+      "year",
+      "value"
+    ],
+    "warnings": []
+  },
+  "lfs_2026q2_indicators_by_sex": {
+    "title": "Table 2: Labour force indicators by sex",
+    "rows": 1010,
+    "district_rows": 0,
+    "unique_districts": 0,
+    "numeric_cols": [
+      "year",
+      "value"
+    ],
+    "warnings": []
+  },
+  "lfs_2026q2_indicators_urban_rural": {
+    "title": "Table 3: Labour force indicators by areas of residence",
+    "rows": 564,
+    "district_rows": 0,
+    "unique_districts": 0,
+    "numeric_cols": [
+      "year",
+      "value"
+    ],
+    "warnings": []
+  },
+  "lfs_2026q2_indicators_youth_adult": {
+    "title": "Table 4: Labour force indicators by Youth and Adult",
+    "rows": 565,
+    "district_rows": 0,
+    "unique_districts": 0,
+    "numeric_cols": [
+      "year",
+      "value"
+    ],
+    "warnings": []
+  }
+}

@@ -1,0 +1,37 @@
+label,breakdown,geo_level,province,district,area,total_both_sexes,total_male,total_female,urban_both_sexes,urban_male,urban_female,rural_both_sexes,rural_male,rural_female
+Rwanda,,national,,,total,27.1,27.5,26.8,31.4,30.8,32.1,25.5,26.1,24.9
+City of Kigali,,province,City of Kigali,,total,33.5,32.5,34.5,34.7,33.4,36.0,25.4,26.3,24.4
+Nyarugenge,,district,City of Kigali,Nyarugenge,total,33.7,33.4,34.0,34.6,34.0,35.3,28.5,30.7,25.5
+Gasabo,,district,City of Kigali,Gasabo,total,32.2,31.0,33.4,34.0,32.4,35.6,24.3,24.5,24.1
+Kicukiro,,district,City of Kigali,Kicukiro,total,35.6,34.3,37.0,35.8,34.4,37.1,24.6,24.7,24.5
+Southern Province,,province,Southern,,total,24.9,25.6,24.2,28.9,28.4,29.4,24.2,25.1,23.3
+Nyanza,,district,Southern,Nyanza,total,23.9,24.4,23.3,28.3,27.8,28.9,23.4,24.1,22.8
+Gisagara,,district,Southern,Gisagara,total,24.4,25.5,23.5,27.0,28.7,25.5,24.3,25.4,23.4
+Nyaruguru,,district,Southern,Nyaruguru,total,25.3,26.4,24.2,29.6,30.6,28.6,25.2,26.3,24.1
+Huye,,district,Southern,Huye,total,24.7,25.6,23.7,29.9,29.1,30.8,23.3,24.5,22.2
+Nyamagabe,,district,Southern,Nyamagabe,total,26.8,27.8,26.0,29.7,29.8,29.6,26.5,27.6,25.5
+Ruhango,,district,Southern,Ruhango,total,23.9,24.5,23.3,27.3,26.3,28.2,23.4,24.3,22.7
+Muhanga,,district,Southern,Muhanga,total,25.3,25.8,24.9,30.6,30.1,31.1,23.7,24.4,23.0
+Kamonyi,,district,Southern,Kamonyi,total,24.8,25.0,24.7,27.8,27.0,28.7,23.4,24.1,22.8
+Western Province,,province,Western,,total,26.2,26.6,25.7,28.4,28.2,28.7,25.5,26.2,24.9
+Karongi,,district,Western,Karongi,total,25.4,26.1,24.7,29.2,28.4,29.9,25.0,25.8,24.2
+Rutsiro,,district,Western,Rutsiro,total,27.0,27.8,26.2,27.4,27.5,27.2,27.0,27.8,26.2
+Rubavu,,district,Western,Rubavu,total,28.1,28.3,27.9,29.1,28.5,29.6,26.9,28.1,25.8
+Nyabihu,,district,Western,Nyabihu,total,28.1,28.6,27.6,29.1,29.0,29.2,27.8,28.5,27.1
+Ngororero,,district,Western,Ngororero,total,25.2,25.5,24.8,30.0,30.0,30.1,24.9,25.3,24.6
+Rusizi,,district,Western,Rusizi,total,25.3,25.8,24.8,27.3,27.8,26.9,24.3,24.7,23.8
+Nyamasheke,,district,Western,Nyamasheke,total,24.1,24.4,23.8,25.5,24.7,26.2,24.0,24.4,23.6
+Northern Province,,province,Northern,,total,27.7,28.2,27.2,30.5,30.1,30.9,27.1,27.8,26.5
+Rulindo,,district,Northern,Rulindo,total,25.7,26.3,25.3,26.2,24.4,27.9,25.7,26.5,25.0
+Gakenke,,district,Northern,Gakenke,total,26.0,26.5,25.6,29.1,28.7,29.5,25.9,26.4,25.4
+Musanze,,district,Northern,Musanze,total,29.3,29.6,29.0,31.3,31.0,31.7,27.3,28.2,26.5
+Burera,,district,Northern,Burera,total,29.1,29.7,28.5,30.1,30.7,29.7,29.0,29.6,28.3
+Gicumbi,,district,Northern,Gicumbi,total,27.7,28.2,27.2,30.4,29.8,30.9,27.5,28.1,26.9
+Eastern Province,,province,Eastern,,total,26.4,26.8,26.1,29.4,29.3,29.5,25.7,26.1,25.3
+Rwamagana,,district,Eastern,Rwamagana,total,27.0,27.6,26.3,30.7,31.1,30.4,24.7,25.3,24.2
+Nyagatare,,district,Eastern,Nyagatare,total,27.2,27.6,26.9,28.4,28.6,28.2,26.8,27.2,26.5
+Gatsibo,,district,Eastern,Gatsibo,total,26.4,26.9,25.9,29.1,29.0,29.1,26.1,26.7,25.5
+Kayonza,,district,Eastern,Kayonza,total,26.4,26.7,26.1,29.8,29.0,30.6,25.8,26.3,25.4
+Kirehe,,district,Eastern,Kirehe,total,26.7,27.0,26.5,29.3,29.1,29.5,26.5,26.8,26.3
+Ngoma,,district,Eastern,Ngoma,total,24.7,24.9,24.5,27.4,26.8,28.0,24.4,24.7,24.1
+Bugesera,,district,Eastern,Bugesera,total,26.3,26.4,26.2,29.3,28.8,29.8,24.2,24.7,23.8
