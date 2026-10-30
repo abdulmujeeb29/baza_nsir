@@ -6,7 +6,7 @@
 
 **Baza NISR is one AI agent over all of NISR's scattered data.** Ask in English or Kinyarwanda. It finds the right NISR tables, runs the query, and checks every number against the data before you see it, with the exact NISR table cited.
 
-**Live demo:** https://baza-nsir.apps.thalesops.com/ · Try: *"Which districts have poverty above 40% and the lowest internet access at home?"*
+**Demo video:** https://youtu.be/g3j3HvjWBRY · **Live demo:** https://baza-nsir.apps.thalesops.com/ · Try: *"Which districts have poverty above 40% and the lowest internet access at home?"*
 
 ![Baza NISR home: serif headline, question box, and the animated wordmark with blue light trails and tracking boxes](docs/screenshots/hero.png)
 
@@ -228,6 +228,8 @@ How AI was used:
 
 - **Abdulmujeeb Tiamiyu**: agent, backend, deployment. MS Engineering AI, Carnegie Mellon University Africa.
 - **Carlos Ngoga**: data cleaning, validation, Rwandan context, documentation. Carnegie Mellon University Africa.
+
+Proof of eligibility for both members (CMU Registrar enrollment letters): [`student_cards/student_cards.pdf`](student_cards/student_cards.pdf).
 
 ## 14. Licence and attribution
 
